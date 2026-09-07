@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Genesis Mod Configs</name>
+	<author>Cruesoe</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>cruesoe.genesismodconfigs</packageId>
+	<description>
+		Cruesoe's mod settings preset for the Genesis suite. Applies preferred settings to third-party mods installed alongside Genesis, the same way Ferny's Mod Configs does for the original Progression modpack.
+
+		Inspired by ferny's Mod Configs, which this is not a fork of - built fresh for Genesis's own tuning choices.
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>Garethp.ModlistConfigurator</packageId>
+			<displayName>Modlist Configurator</displayName>
+			<downloadUrl>https://steamcommunity.com/linkfilter/?url=https://github.com/Garethp/rimworld-modlist-configurator</downloadUrl>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3009304695</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>

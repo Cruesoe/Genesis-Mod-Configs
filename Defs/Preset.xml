@@ -1,0 +1,7 @@
+<Defs>
+    <ModlistConfigurator.ModlistPresetDef>
+        <defName>GenesisConfigs</defName>
+        <presetLabel>Genesis Configs</presetLabel>
+        <version>1.0</version>
+    </ModlistConfigurator.ModlistPresetDef>
+</Defs>
