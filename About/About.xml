@@ -19,4 +19,7 @@
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3009304695</steamWorkshopUrl>
 		</li>
 	</modDependencies>
+	<loadAfter>
+		<li>ferny.modconfigs</li>
+	</loadAfter>
 </ModMetaData>

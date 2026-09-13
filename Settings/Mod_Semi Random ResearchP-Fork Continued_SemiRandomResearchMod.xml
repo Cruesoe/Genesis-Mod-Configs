@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CM_Semi_Random_Research.SemiRandomResearchSettings">
+		<availableProjectCount>5</availableProjectCount>
+		<maxProjectCount>6</maxProjectCount>
+		<forceLowestTechLevel>True</forceLowestTechLevel>
+		<showResearchRateGraph>False</showResearchRateGraph>
+		<showCompletionLetter>False</showCompletionLetter>
+		<preferredResearchTree>Organized</preferredResearchTree>
+		<settingsVersion>2</settingsVersion>
+		<suppressHandoverMessages>True</suppressHandoverMessages>
+	</ModSettings>
+	<seenText>
+		<li>Successfully uploaded Auto Name Babies.</li>
+		<li>Successfully uploaded Genesis Mod Configs.</li>
+		<li>Tribal gathering is now scheduled to begin daily at this time.</li>
+		<li>Tribal gathering has begun.</li>
+		<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
+		<li>Wild man joins</li>
+		<li>Encouraging tribal gathering</li>
+		<li>tribal gathering has been completed.</li>
+		<li>5 things designated</li>
+		<li>1 things designated</li>
+		<li>9 things designated</li>
+		<li>Visitor</li>
+		<li>Fallen monolith</li>
+		<li>Visitors from Bolé Tribe are leaving.</li>
+		<li>Gift from Bolé Tribe</li>
+		<li>Uninspiring tribal gathering</li>
+		<li>Mad crow</li>
+		<li>Blood Moon</li>
+		<li>Game Saved: Bad Event</li>
+		<li>Visitors</li>
+		<li>The blood moon has ended.</li>
+		<li>Exported mod-settings for Semi Random Research to C:\Users\crues\Desktop\Mod_Semi Random ResearchP-Fork Continued_SemiRandomResearchMod.xml</li>
+	</seenText>
+</SettingsBlock>

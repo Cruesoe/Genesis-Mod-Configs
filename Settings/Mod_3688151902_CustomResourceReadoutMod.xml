@@ -1,0 +1,2373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CustomResourceReadout.CustomResourceReadoutSettings">
+		<modeType>Custom</modeType>
+		<currentMode>ResourceReadoutMode_Genesis List</currentMode>
+		<customModes>
+			<li>
+				<name>Genesis List</name>
+				<items>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<alwaysShow>True</alwaysShow>
+						<def>Silver</def>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<alwaysShow>True</alwaysShow>
+						<def>WoodLog</def>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<alwaysShow>True</alwaysShow>
+						<def>Steel</def>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<alwaysShow>True</alwaysShow>
+						<def>Plasteel</def>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<alwaysShow>True</alwaysShow>
+						<def>Gold</def>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<alwaysShow>True</alwaysShow>
+						<def>ComponentIndustrial</def>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<alwaysShow>True</alwaysShow>
+						<def>ComponentSpacer</def>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/Foods</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>Things/Items/Drinks/VBE_Whiskey/VBE_Whiskey_b</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>Things/Items/Drinks/VBE_Whiskey/VBE_Whiskey_b</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Beer</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>AC_BeetKvass</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>AC_Sake</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Cider</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Vodka</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Whiskey</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_IrishCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VFEP_Rum</def>
+											</li>
+										</items>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>Things/Items/Drinks/VBE_DoubleAgedWhisky/VBE_DoubleAgedWhisky_b</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>AC_CoffeeLiquor</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>AC_ChocolateLiquor</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Ambrandy</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Gin</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Tequila</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_DoubleWhiskey</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VFEM2_Mead</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VFEM2_Wine</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Chemshine</def>
+											</li>
+										</items>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>Things/Items/Drinks/VBE_Juice/VBE_Juice_b</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>PsychiteTea</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_HotCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_IceCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_EnergyDrink</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Juice</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Soda</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Tea</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_DalgonaCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_GreenTea</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_MasalaChai</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_MintCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_MintTea</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_NoonChai</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_EarlGreyTea</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_LemonCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Lemonade</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_LemonTea</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_BlackTea</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_CannibalCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Kombucha</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_LatteCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_MochaCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_PumpkinCoffee</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_Yuenyeung</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>AC_ChichaMorada</def>
+											</li>
+										</items>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>UI/DavaiCocktails</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_SimpleCocktail</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_FineCocktail</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_LavishCocktail</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_GourmetCocktail</def>
+											</li>
+										</items>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>Things/Items/Condiments/VCE_Ketchup/VCE_Ketchup_c</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_FishSauce</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Jam</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_CondensedMilk</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Molasses</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Miso</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Zest</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_BlackGarlic</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Butter</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Ghee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Essence</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Flour</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Gravy</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_InfusedOil</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_TruffleOil</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_BalsamicVinegar</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Vegemite</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_CornSyrup</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_SourCream</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Oil</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Vinegar</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_LuciferiumPowder</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_WakeUpPowder</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_GoJuiceStock</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Ketchup</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_HotSauce</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_AgaveNectar</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawSugar</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawSpices</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Salt</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Mayo</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_InsectJellyPreserves</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_SmokeleafButter</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_ChocolateSyrup</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_DigestibleResurrectorNanites</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_MintLeaves</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_SoySauce</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_WasabiPaste</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Buttermilk</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiHemogen</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>HemogenPack</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VRE_HemogenPack_Animal</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VRE_HemogenPack_Corpse</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VRE_HemogenPack_Sanguophage</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiSemiManufactures</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>Things/Items/Musts/VBE_SodaSyrup</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Wort</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_UnfermentedCider</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_SodaSyrup</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_AmbrandyMush</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_AmbrandyMust</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_WhiskeyMash</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_TequilaMust</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_VodkaMash</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VBE_GinMush</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VFEM2_Must</def>
+											</li>
+										</items>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>UI/VCE_EmptySoupPotIcon</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupSimple</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupFine</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupLavish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupGourmet</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupFine_Veg</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupFine_Carn</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupLavish_Veg</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupLavish_Carn</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupGourmet_Veg</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedSoupGourmet_Carn</def>
+											</li>
+										</items>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>UI/VCE_EmptyStewPotIcon</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedStewSimple</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedStewFine</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedStewLavish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedStewFine_Veg</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedStewFine_Carn</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedStewLavish_Veg</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_UncookedStewLavish_Carn</def>
+											</li>
+										</items>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiCaravanFood</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MealSurvivalPack</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiAnimalFood</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Kibble</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Hay</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawMoss</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiSweets</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Ambrosia</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Chocolate</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>InsectJelly</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_Sweetroll</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_Honey</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiSmokes</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>SmokeleafJoint</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Cigarettes</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Cigars</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>BabyFood</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VGE_Oxyalgae</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>CE_DeepFriedBigMeatNoBadHediff</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>CE_DeepFriedVegetablesNoBadHediff</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/FoodMeals</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiSushi</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Chirashizushi</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Norimaki</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Uramaki</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Nigiri</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Temaki</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Futomaki</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Gunkanmaki</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_Oshizushi</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiStew</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedStewSimple</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedStewFine</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedStewLavish</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedStewFine_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedStewFine_Carn</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedStewLavish_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedStewLavish_Carn</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiDeepFried</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_DeepFriedBigMeat</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_DeepFriedVegetables</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_DeepFriedFish</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_DeepFriedSushi</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiBakes</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_SimpleBake</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_FineBake</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_LavishBake</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_GourmetBake</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_FineBake_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_LavishBake_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_GourmetBake_Veg</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiDesserts</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_SimpleDessert</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_FineDessert</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_LavishDessert</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_GourmetDessert</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiGrill</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_SimpleGrill</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_FineGrill</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_LavishGrill</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_GourmetGrill</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiRuinedGrill</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RuinedSimpleGrill</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RuinedFineGrill</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RuinedLavishGrill</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RuinedGourmetGrill</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiSoup</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupSimple</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupFine</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupLavish</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupGourmet</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupFine_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupFine_Carn</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupLavish_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupLavish_Carn</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupGourmet_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CookedSoupGourmet_Carn</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiBasic</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MealSimple</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MealFine</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MealFine_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MealFine_Meat</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MealLavish</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MealLavish_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MealLavish_Meat</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_MealGourmet</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_MealGourmet_Veg</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_MealGourmet_Carn</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>MealNutrientPaste</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Pemmican</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_JamonSerrano</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_CuredHiveConfections</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Chips</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Puree</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Ricotta</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Kefir</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Lassi</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Popcorn</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_ButteredPopcorn</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_CaramelPopcorn</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_Yoghurt</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_CannedSoup</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VFEFactory_MassProducedMeal</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_MealHaute</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>CE_DeepFriedBigMeatNoBadHediff</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>CE_DeepFriedVegetablesNoBadHediff</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AM_DisgustingMealNutrientPaste</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>MeatOnAStick_food</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/FoodRaw</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/Icons/ThingCategories/MeatRaw</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>UI/Icons/ThingCategories/Category_Fish</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Salmon</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Bass</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Tilapia</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Cod</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Bluefish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Guppy</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Frostfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Catfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Piranha</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Dogfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Marlin</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Tuna</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Flounder</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Fish_Toxfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_CannedFish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawAnchovy</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawAngelfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawAnglerfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawClownfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawEel</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawGoldfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawHaddock</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawHalibut</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawHerring</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawKoi</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawLobster</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawMackerel</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawMinnow</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawPerch</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawPufferfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawSprat</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawSwordfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_RawTrout</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_Crayfish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_ButterFish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_FreshwaterStingray</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_FlyingFish</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_Arapaima</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCEF_ShortfinMakoShark</def>
+											</li>
+										</items>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>UI/DavaiNastyMeat</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Meat_Twisted</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Meat_Megaspider</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>Meat_Human</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>VCE_HumanSurimi</def>
+											</li>
+										</items>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CannedMeat</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEFactory_ProcessedMince</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>FFE_ChoppedMeat</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Meat_Cow</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/Icons/ThingCategories/PlantFoodRaw</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>RawPotatoes</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>RawFungus</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>RawRice</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>RawAgave</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>RawCorn</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>RawBerries</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>RawToxipotato</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CannedProduce</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_RawGrapes</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_RawGlowstool</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawSoybean</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawWasabi</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawOnion</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawPumpkin</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawPepper</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawPeas</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawEggplant</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawCabbage</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawBeets</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawTomatoes</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawOats</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawCelery</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawLettuce</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawRadish</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawBuckwheat</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawPeanut</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawSunflower</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawOkra</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawGarlic</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawCarrot</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawBrusselsSprouts</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawOlives</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawSweetPotatoes</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawCassava</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawBeans</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawBellPeppers</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawYellowBellPeppers</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawChickpeas</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawTaro</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawWatercress</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawLotus</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawWaterChestnut</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawCucumber</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_RawButternutSquash</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/Icons/ThingCategories/AnimalProductRaw</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>UI/Icons/ThingCategories/EggsUnfertilized</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggChickenUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggCobraUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggIguanaUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggTortoiseUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggCassowaryUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggEmuUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggOstrichUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggTurkeyUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggDuckUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggGooseUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggMonitorLizardUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggFlamingoUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggHeronUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggSwanUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggSparrowUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggCrowUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggBluebirdUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggQuailUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggMacawUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggPeacockUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggVultureUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggPenguinUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggSeaTurtleUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggAlligatorUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>RG_EggKiwiUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>RG_EggWoollyStegosaurusUnfertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>RG_RimclawEggUnfertilized</def>
+											</li>
+										</items>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutCategory">
+										<iconPath>UI/Icons/ThingCategories/EggsFertilized</iconPath>
+										<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+										<items>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggChickenFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggCobraFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggIguanaFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggTortoiseFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggCassowaryFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggEmuFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggOstrichFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggTurkeyFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggDuckFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggGooseFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggMonitorLizardFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggFlamingoFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggHeronFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggSwanFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggSparrowFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggCrowFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggBluebirdFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggQuailFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggMacawFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggPeacockFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggVultureFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggPenguinFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggSeaTurtleFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>EggAlligatorFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>RG_EggKiwiFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>RG_EggWoollyStegosaurusFertilized</def>
+											</li>
+											<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+												<def>RG_RimclawEggFertilized</def>
+											</li>
+										</items>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Milk</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VCE_CannedAP</def>
+									</li>
+								</items>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/Manufactured</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/Icons/ThingCategories/MortarShells</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Shell_HighExplosive</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Shell_Incendiary</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Shell_EMP</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Shell_Smoke</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Shell_Firefoam</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Shell_AntigrainWarhead</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Shell_Toxic</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Shell_Deadlife</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFED_Shell_Shrapnel</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFED_Shell_ArmorPiercing</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFED_Shell_Cluster</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>ComponentIndustrial</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>ComponentSpacer</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Neutroamine</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Chemfuel</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Dye</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>SubcoreBasic</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>SubcoreRegular</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>SubcoreHigh</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>SignalChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>PowerfocusChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>NanostructuringChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Shard</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Gravcore</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>ShuttleEngine</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>APM_OcularChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>APM_PsionicChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>APM_ExtraChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>APM_PsyfluxChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>PA_ArrowRefill</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>PA_AmmoRefill</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>PA_ChargeRefill</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VGE_OxygenCanister</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VGE_Astrofuel</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VQE_GenetronComponent</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AM_HyperLinkageChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AM_StellarProcessingChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AM_QuantumMatrixChip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>RB_Glass</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>RB_BallisticGlass</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCHE_Deepchem</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/Textiles</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/Icons/ThingCategories/Leathers</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Plain</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Dog</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Wolf</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Panthera</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Camel</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Bluefur</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Bear</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_GuineaPig</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Human</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Pig</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Light</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Bird</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Chinchilla</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Fox</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Lizard</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Elephant</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Heavy</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Rhinoceros</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Thrumbo</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Patch</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Dread</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Mastodon</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Sealskin</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_AlphaThrumbo</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Mink</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Hippo</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Leather_Armadillo</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_HardLeather</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>RG_DinosaursHideHeavy</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/Icons/ThingCategories/Wools</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>WoolSheep</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>WoolAlpaca</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>WoolMegasloth</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>WoolMuffalo</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>WoolBison</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>WoolMastodon</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>WoolMuskox</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>RG_WoolStegosaurus</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Cloth</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Synthread</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>DevilstrandCloth</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Hyperweave</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>ABooks_Durathread</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VFEM2_Hardweave</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VFEM2_Hayweave</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VDE_Gaubric</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/Medicine</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>MedicineHerbal</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>MedicineIndustrial</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>MedicineUltratech</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/Drugs</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiMedicalDrugs</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Luciferium</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Penoxycyline</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Soap</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEE_Aperitif</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_HemogenDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_ClarityDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_ImmunizationDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_HealingDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_StrengthDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_EfficiencyDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_PainkillerDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_TorturerDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_FocusDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_FertilityDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_InspirationDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_StoneskinDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_AmnesiaDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_ComaDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_PoisonDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_AntitoxDraught</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VRE_Antibiotics</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiSocialDrugs</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Beer</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Ambrosia</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>PsychiteTea</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>SmokeleafJoint</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Drug_Psilocap</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_PipeTobacco</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_ArtisanalKombucha</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_FlavouredKombucha</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_CoffeeLiquor</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_BeetKvass</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_Sake</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_ChocolateLiquor</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Cider</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Ambrandy</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Gin</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Tequila</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Vodka</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Whiskey</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_DoubleWhiskey</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_HotCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_IceCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_EnergyDrink</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Soda</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Tea</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Cigarettes</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Cigars</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_Mead</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEM2_Wine</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Chemshine</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_DalgonaCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_GreenTea</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_MasalaChai</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_MintCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_MintTea</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_NoonChai</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_EarlGreyTea</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_LemonCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Lemonade</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_LemonTea</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_BlackTea</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_CannibalCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_IrishCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Kombucha</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_LatteCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_MochaCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_PumpkinCoffee</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VBE_Yuenyeung</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VFEP_Rum</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>AC_ChichaMorada</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiHardDrugs</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>GoJuice</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Flake</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>Yayo</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>WakeUp</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutCategory">
+								<iconPath>UI/DavaiSera</iconPath>
+								<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+								<items>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MechSerumHealer</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MechSerumResurrector</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>DeathrestCapacitySerum</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>VoidsightSerum</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MetalbloodSerum</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>JuggernautSerum</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>MindNumbSerum</def>
+									</li>
+									<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+										<def>GhoulResurrectionSerum</def>
+									</li>
+								</items>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>SentienceCatalyst</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/ResourcesRaw</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Silver</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Gold</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Steel</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Plasteel</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>WoodLog</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Uranium</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Jade</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Bioferrite</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>GravlitePanel</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>Obsidian</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>ABooks_StainlessSteel</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>chrisb_moas_sticks</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/PlantMatter</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>RawHops</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>PsychoidLeaves</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>SmokeleafLeaves</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Lavender</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_FragrantbloomRose</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Hyacinth</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Jasmine</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Lily</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Orchid</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Plumeria</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Tulip</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Vanilla</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Violet</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_YlangYlang</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VBE_RawCoffee</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VBE_RawTea</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VBE_RawTobacco</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_Flour</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VFEM2_RafflesiaLeaves</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VFEM2_AstragalusFlowers</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VFEM2_CliviaPetals</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VFEM2_AlocasiaLeaves</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawCanola</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/StoneBlocks</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>BlocksSandstone</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>BlocksGranite</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>BlocksLimestone</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>BlocksSlate</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>BlocksMarble</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>BlocksVacstone</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VRecyclingE_TrashBrick</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>Things/Item/AC_Oil/AC_OilA_c</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_PipeTobacco</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_TeaSachets</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_ArtisanalKombucha</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_FlavouredKombucha</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_CoffeeLiquor</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_FishSauce</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Roe</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Jam</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Chutney</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_CondensedMilk</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Molasses</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_SaltedCaramel</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_JamonSerrano</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Miso</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_BeetKvass</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Sauerkraut</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Zest</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_BlackGarlic</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_BlackMayonnaise</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Butter</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Ghee</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_CuredHiveConfections</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Sake</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_ChocolateLiquor</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Essence</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Flour</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Chips</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Puree</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Gravy</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_PowderedHorn</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_PowderedMineral</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_InfusedOil</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_TruffleOil</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_BalsamicVinegar</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Vegemite</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Mayonnaise</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_InfusedMayonnaise</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_AloeVeraSalve</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_CornSyrup</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Ricotta</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_SourCream</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Kefir</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Lassi</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Oil</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Perfume</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Pickles</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_PickledEggs</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Popcorn</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_ButteredPopcorn</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_CaramelPopcorn</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_ScentedCandle</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Soap</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Vinegar</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_Yoghurt</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Surstromming</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Buttermilk</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_Kimchi</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>AC_ChichaMorada</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>Things/Items/VCE_Cheese/VCE_zCheese_c</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_Cheese</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>UI/Icons/ThingCategories/CarParts</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_EngineBlock</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_CarAlternator</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_CarExhaust</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_CarSuspension</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_CarWheel</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_CarBattery</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_CarFuelTank</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_CarTransmission</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_CarRadiator</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VVE_CarWiring</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutCategory">
+						<iconPath>Things/Items/Raw/VCE_Oranges</iconPath>
+						<iconColor>RGBA(1.000, 1.000, 1.000, 1.000)</iconColor>
+						<items>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_CannedFruit</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VFEM2_RawGrapes</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawLemon</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawApple</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawPeach</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawCherry</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawPlum</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawPrunes</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawPear</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawPricklyPear</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_Bearberry</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawBanana</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawOrange</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawBlueberries</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawAvocado</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawMelon</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawPineapple</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawCoconut</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_RawAlmonds</def>
+							</li>
+							<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+								<def>VCE_Mangoes</def>
+							</li>
+						</items>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<def>ChunkSandstone</def>
+						<countAll>True</countAll>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<def>ChunkGranite</def>
+						<countAll>True</countAll>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<def>ChunkLimestone</def>
+						<countAll>True</countAll>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<def>ChunkSlate</def>
+						<countAll>True</countAll>
+					</li>
+					<li Class="CustomResourceReadout.ResourceReadoutLeaf">
+						<def>ChunkMarble</def>
+						<countAll>True</countAll>
+					</li>
+				</items>
+			</li>
+		</customModes>
+	</ModSettings>
+	<seenText>
+		<li>Warning: Adding "Optimization: Meat - C# Edition" to an existing save may cause errors, see the workshop page for more information.</li>
+		<li>Reload anytime mode has been automatically selected (debug mode only)</li>
+		<li>Eve healed</li>
+		<li>Adam healed</li>
+		<li>Added husband: Adam</li>
+		<li>Changes applied</li>
+		<li>Pawn saved: Adam</li>
+		<li>Pawn saved: Eve</li>
+		<li>Starting from the basics</li>
+		<li>220 things allowed (corpses excluded)</li>
+		<li>Saved as Start.</li>
+		<li>6 things designated</li>
+		<li>Ancient danger</li>
+		<li>Game Saved: Bad Event</li>
+		<li>5 things designated</li>
+		<li>22 things designated</li>
+		<li>33 things designated</li>
+		<li>Breakup</li>
+		<li>a double sleeping spot is no longer assigned to Eve.</li>
+		<li>Exported mod-settings for Custom Resource Readout to C:\Users\crues\Desktop\Mod_3688151902_CustomResourceReadoutMod.xml</li>
+	</seenText>
+</SettingsBlock>
