@@ -1,26 +1,205 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="VanillaUIPlus.UiPlusSettings">
+		<wrapText>True</wrapText>
+		<wrapLetterText>True</wrapLetterText>
+		<reverseNotificationOrder>True</reverseNotificationOrder>
+		<defaultSchedule>
+			<li>Sleep</li>
+			<li>Sleep</li>
+			<li>Sleep</li>
+			<li>Sleep</li>
+			<li>Sleep</li>
+			<li>Sleep</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Anything</li>
+			<li>Joy</li>
+			<li>Joy</li>
+			<li>Meditate</li>
+			<li>Sleep</li>
+			<li>Sleep</li>
+		</defaultSchedule>
+		<defaultWorkPriorities>
+			<keys>
+				<li>Firefighter</li>
+				<li>Patient</li>
+				<li>PatientBedRest</li>
+				<li>BasicWorker</li>
+				<li>Warden</li>
+				<li>Handling</li>
+				<li>Cooking</li>
+				<li>Hunting</li>
+				<li>Construction</li>
+				<li>Growing</li>
+				<li>Mining</li>
+				<li>PlantCutting</li>
+				<li>Smithing</li>
+				<li>Tailoring</li>
+				<li>Art</li>
+				<li>Crafting</li>
+				<li>Hauling</li>
+				<li>Cleaning</li>
+				<li>Research</li>
+				<li>DarkStudy</li>
+				<li>Fishing</li>
+				<li>APM_FrostivusFoodPreservation</li>
+				<li>APM_IngestorCorpseProcessing</li>
+				<li>APM_LasherHandling</li>
+				<li>APM_SirenWarden</li>
+				<li>APM_TinkerRepair</li>
+				<li>GuardingP_GuardingWorkType</li>
+				<li>RecycleThis_Recycle</li>
+				<li>WorkType_Improving</li>
+				<li>KAU_UrgentHaul</li>
+				<li>KAU_FinishingOff</li>
+				<li>DOL_Butcher</li>
+				<li>DOL_Deconstruct</li>
+				<li>DOL_Repair</li>
+			</keys>
+			<values>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>3</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>3</li>
+				<li>3</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>3</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+				<li>3</li>
+				<li>0</li>
+				<li>0</li>
+				<li>1</li>
+				<li>3</li>
+				<li>0</li>
+				<li>0</li>
+				<li>0</li>
+			</values>
+		</defaultWorkPriorities>
+		<defaultAssignments>
+			<medicalCare>Best</medicalCare>
+			<apparelPolicy>Standard</apparelPolicy>
+			<foodPolicy>Lavish</foodPolicy>
+			<drugPolicy>Social drugs</drugPolicy>
+			<readingPolicy>Anything</readingPolicy>
+			<stockThings>
+				<keys>
+					<li>Medicine</li>
+					<li>PA_AmmoStock</li>
+					<li>MintFoodStock</li>
+					<li>MintDrugStock</li>
+				</keys>
+				<values>
+					<li>MedicineHerbal</li>
+					<li>PA_ArrowRefill</li>
+					<li>MealSimple</li>
+					<li>Beer</li>
+				</values>
+			</stockThings>
+			<stockCounts>
+				<keys>
+					<li>Medicine</li>
+					<li>PA_AmmoStock</li>
+					<li>MintFoodStock</li>
+					<li>MintDrugStock</li>
+				</keys>
+				<values>
+					<li>3</li>
+					<li>1</li>
+					<li>0</li>
+					<li>0</li>
+				</values>
+			</stockCounts>
+		</defaultAssignments>
+		<storytellerDefaults>
+			<storyteller>Cassandra</storyteller>
+			<difficulty>Custom</difficulty>
+			<difficultySettings IsNull="True" />
+			<permadeath>False</permadeath>
+		</storytellerDefaults>
+		<worldDefaults>
+			<pollution>0</pollution>
+			<factions>
+				<li>OutlanderCivil</li>
+				<li>OutlanderRoughPig</li>
+				<li>OutlanderRoughStoneborn</li>
+				<li>SettlerCivil</li>
+				<li>SettlerRough</li>
+				<li>SettlerSavage</li>
+				<li>TribeCivil</li>
+				<li>VFEM2_KingdomCivil</li>
+				<li>VFEM2_MerchantGuild</li>
+				<li>VFEP_Junkers</li>
+				<li>VFEP_Mercenaries</li>
+				<li>TribeRoughNeanderthal</li>
+				<li>TribeSavageImpid</li>
+				<li>PirateYttakin</li>
+				<li>PirateWaster</li>
+				<li>Empire</li>
+				<li>TradersGuild</li>
+				<li>VFEE_Deserters</li>
+				<li>VFEM2_ClanRough</li>
+				<li>Mechanoid</li>
+				<li>Insect</li>
+			</factions>
+		</worldDefaults>
+		<hideSpeedButtons>True</hideSpeedButtons>
+		<eventSpeedMode>Ignore</eventSpeedMode>
 		<showPlayButtons>
-			<keys />
-			<values />
+			<keys>
+				<li>map:ShowLearningHelper</li>
+				<li>map:ShowRoomStats</li>
+				<li>map:ShowBeauty</li>
+				<li>map:ShowColonistBar</li>
+				<li>map:ToggleHeatOverlay</li>
+				<li>map:SearchToggle</li>
+				<li>map:MinimapToggle</li>
+				<li>map:ShowPlanToggle</li>
+				<li>map:ToggleVacuumOverlay</li>
+				<li>map:ToggleIcon</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+			</values>
 		</showPlayButtons>
 		<mainButtons>
-			<li>
-				<defName>MintDesignators</defName>
-				<placement>Hidden</placement>
-				<look>TextAndIcon</look>
-			</li>
-			<li>
-				<defName>MintMenus</defName>
-				<placement>Hidden</placement>
-				<look>TextAndIcon</look>
-			</li>
-			<li>
-				<defName>MintResearch</defName>
-				<placement>Hidden</placement>
-				<look>TextAndIcon</look>
-			</li>
 			<li>
 				<defName>Architect</defName>
 				<look>IconOnly</look>
@@ -30,11 +209,6 @@
 				<defName>Work</defName>
 				<look>TextAndIcon</look>
 				<iconPath>UI/Icons/MainButtons/hammer-screwdriver</iconPath>
-			</li>
-			<li>
-				<defName>AutoRituals</defName>
-				<placement>Dropdown</placement>
-				<look>TextAndIcon</look>
 			</li>
 			<li>
 				<defName>Schedule</defName>
@@ -57,20 +231,9 @@
 				<iconPath>UI/Icons/MainButtons/robot</iconPath>
 			</li>
 			<li>
-				<defName>WQ_CharactersMenu</defName>
-				<placement>Dropdown</placement>
-				<look>TextAndIcon</look>
-				<iconPath>UI/Icons/MainButtons/account-edit</iconPath>
-			</li>
-			<li>
 				<defName>Wildlife</defName>
 				<look>TextAndIcon</look>
 				<iconPath>UI/Icons/MainButtons/paw</iconPath>
-			</li>
-			<li>
-				<defName>GuardingP_GuardTab</defName>
-				<placement>Dropdown</placement>
-				<look>TextAndIcon</look>
 			</li>
 			<li>
 				<defName>Research</defName>
@@ -88,16 +251,6 @@
 				<iconPath>UI/Icons/MainButtons/earth</iconPath>
 			</li>
 			<li>
-				<defName>VFEE_Royalty</defName>
-				<placement>Dropdown</placement>
-				<look>TextAndIcon</look>
-			</li>
-			<li>
-				<defName>RocketWindow</defName>
-				<placement>Hidden</placement>
-				<look>TextAndIcon</look>
-			</li>
-			<li>
 				<defName>History</defName>
 				<look>IconOnly</look>
 				<iconPath>UI/Icons/MainButtons/library</iconPath>
@@ -108,18 +261,78 @@
 				<iconPath>UI/Icons/MainButtons/home-group</iconPath>
 			</li>
 			<li>
-				<defName>InMemoriam</defName>
-				<placement>Dropdown</placement>
-				<look>TextAndIcon</look>
-			</li>
-			<li>
 				<defName>Ideos</defName>
 				<look>IconOnly</look>
 				<iconPath>UI/Icons/MainButtons/head-lightbulb</iconPath>
 			</li>
 			<li>
-				<defName>MintBillMenu</defName>
+				<defName>VUIP_More</defName>
+				<look>IconOnly</look>
+				<iconPath>UI/Icons/MainButtons/apps</iconPath>
+			</li>
+			<li>
+				<defName>Menu</defName>
+				<look>IconOnly</look>
+			</li>
+			<li>
+				<defName>MintDesignators</defName>
 				<placement>Hidden</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>MintMenus</defName>
+				<placement>Hidden</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>MintResearch</defName>
+				<placement>Hidden</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>AutoRituals</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>PE_Education</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>VQE_Drones</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>WQ_CharactersMenu</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+				<iconPath>UI/Icons/MainButtons/account-edit</iconPath>
+			</li>
+			<li>
+				<defName>GuardingP_GuardTab</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>VFEE_Royalty</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>RocketWindow</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>InMemoriam</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>MintBillMenu</defName>
+				<placement>Dropdown</placement>
 				<look>TextAndIcon</look>
 			</li>
 			<li>
@@ -137,15 +350,37 @@
 				<placement>Hidden</placement>
 				<look>TextAndIcon</look>
 			</li>
-			<li>
-				<defName>VUIP_More</defName>
-				<look>IconOnly</look>
-				<iconPath>UI/Icons/MainButtons/apps</iconPath>
-			</li>
-			<li>
-				<defName>Menu</defName>
-				<look>IconOnly</look>
-			</li>
 		</mainButtons>
+		<hudWidth>198</hudWidth>
 	</ModSettings>
+	<seenText>
+		<li>Successfully uploaded Auto Name Babies.</li>
+		<li>Successfully uploaded Genesis Mod Configs.</li>
+		<li>Tribal gathering is now scheduled to begin daily at this time.</li>
+		<li>Tribal gathering has begun.</li>
+		<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
+		<li>Wild man joins</li>
+		<li>Encouraging tribal gathering</li>
+		<li>tribal gathering has been completed.</li>
+		<li>5 things designated</li>
+		<li>1 things designated</li>
+		<li>9 things designated</li>
+		<li>Visitor</li>
+		<li>Fallen monolith</li>
+		<li>Visitors from Bolé Tribe are leaving.</li>
+		<li>Gift from Bolé Tribe</li>
+		<li>Uninspiring tribal gathering</li>
+		<li>Mad crow</li>
+		<li>Blood Moon</li>
+		<li>Game Saved: Bad Event</li>
+		<li>Visitors</li>
+		<li>The blood moon has ended.</li>
+		<li>Critical alert: Major break risk</li>
+		<li>Chopped meat x10 has rotted away in storage.</li>
+		<li>Baby food x18 has rotted away in storage.</li>
+		<li>Goat doe 4 is pregnant!</li>
+		<li>Lercha has gotten food poisoning from: Milk. Cause: Dangerous food type.</li>
+		<li>Quest available: Support The Purple Sound Settlement</li>
+		<li>Exported mod-settings for Vanilla UI+ to C:\Users\crues\Desktop\Mod_Vanilla UI+_UiPlusMod.xml</li>
+	</seenText>
 </SettingsBlock>
