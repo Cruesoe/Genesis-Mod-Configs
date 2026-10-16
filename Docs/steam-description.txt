@@ -1,3 +1,15 @@
-Cruesoe's mod settings preset for the Genesis suite. Applies preferred settings to third-party mods installed alongside Genesis, the same way Ferny's Mod Configs does for the original Progression modpack.
+[b]Cruesoe's mod settings preset for the Genesis suite.[/b]
 
-		Inspired by ferny's Mod Configs, which this is not a fork of - built fresh for Genesis's own tuning choices.
+Applies preferred settings to third-party mods installed alongside Genesis, the same way ferny's Mod Configs does for the original Progression modpack.
+
+[h2]Features[/h2]
+[list]
+[*]Sets Genesis's tuning choices in the supported third-party mods it finds installed.
+[*]Built fresh for Genesis rather than forked from ferny's Mod Configs.
+[/list]
+
+[h2]Compatibility[/h2]
+Safe to add to an existing save.
+
+[h2]Credits[/h2]
+Thanks to [b]ferny's Mod Configs[/b] for the idea.
