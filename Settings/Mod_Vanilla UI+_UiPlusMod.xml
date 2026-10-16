@@ -139,12 +139,6 @@
 				</values>
 			</stockCounts>
 		</defaultAssignments>
-		<storytellerDefaults>
-			<storyteller>Cassandra</storyteller>
-			<difficulty>Custom</difficulty>
-			<difficultySettings IsNull="True" />
-			<permadeath>False</permadeath>
-		</storytellerDefaults>
 		<worldDefaults>
 			<pollution>0</pollution>
 			<factions>
