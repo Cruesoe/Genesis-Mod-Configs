@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NiceInventoryTab.Settings">
+		<TabWidth>701</TabWidth>
+		<EnableAutoWear>False</EnableAutoWear>
+		<AlternativeLayout>False</AlternativeLayout>
+		<QualityColors>
+			<li>RGBA(0.541, 0.282, 0.125, 1.000)</li>
+			<li>RGBA(0.667, 0.467, 0.231, 1.000)</li>
+			<li>RGBA(0.835, 0.835, 0.835, 1.000)</li>
+			<li>RGBA(1.000, 0.953, 0.212, 1.000)</li>
+			<li>RGBA(0.000, 1.000, 0.212, 1.000)</li>
+			<li>RGBA(1.000, 0.408, 1.000, 1.000)</li>
+			<li>RGBA(1.000, 0.098, 0.439, 1.000)</li>
+		</QualityColors>
+		<QualityGlow>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0.25</li>
+			<li>0.660000026</li>
+			<li>1</li>
+			<li>2</li>
+		</QualityGlow>
+		<QualityOnlyOnHover>
+			<li>False</li>
+			<li>False</li>
+			<li>False</li>
+			<li>False</li>
+			<li>False</li>
+			<li>False</li>
+			<li>False</li>
+		</QualityOnlyOnHover>
+		<RefreshDelay>90</RefreshDelay>
+	</ModSettings>
+</SettingsBlock>

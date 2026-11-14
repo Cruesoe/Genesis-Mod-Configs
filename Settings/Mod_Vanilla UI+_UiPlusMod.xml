@@ -4,6 +4,15 @@
 		<wrapText>True</wrapText>
 		<wrapLetterText>True</wrapLetterText>
 		<reverseNotificationOrder>True</reverseNotificationOrder>
+		<resourceOrderSimple />
+		<resourceOrderCategorized />
+		<resourceCountAll />
+		<resourceHidden />
+		<resourceParents>
+			<keys />
+			<values />
+		</resourceParents>
+		<resourceOpenCategories />
 		<defaultSchedule>
 			<li>Sleep</li>
 			<li>Sleep</li>
@@ -139,12 +148,130 @@
 				</values>
 			</stockCounts>
 		</defaultAssignments>
+		<defaultScheduleSlave IsNull="True" />
+		<defaultWorkPrioritiesSlave IsNull="True" />
+		<defaultAssignmentsSlave IsNull="True" />
+		<storytellerDefaults>
+			<storyteller>Cassandra</storyteller>
+			<difficulty>Rough</difficulty>
+			<difficultySettings>
+				<keys>
+					<li>threatScale</li>
+					<li>allowBigThreats</li>
+					<li>allowIntroThreats</li>
+					<li>allowCaveHives</li>
+					<li>peacefulTemples</li>
+					<li>allowViolentQuests</li>
+					<li>babiesAreHealthy</li>
+					<li>noBabiesOrChildren</li>
+					<li>childRaidersAllowed</li>
+					<li>childShamblersAllowed</li>
+					<li>predatorsHuntHumanlikes</li>
+					<li>scariaRotChance</li>
+					<li>colonistMoodOffset</li>
+					<li>tradePriceFactorLoss</li>
+					<li>cropYieldFactor</li>
+					<li>mineYieldFactor</li>
+					<li>butcherYieldFactor</li>
+					<li>fishingYieldFactor</li>
+					<li>researchSpeedFactor</li>
+					<li>diseaseIntervalFactor</li>
+					<li>enemyReproductionRateFactor</li>
+					<li>playerPawnInfectionChanceFactor</li>
+					<li>manhunterChanceOnDamageFactor</li>
+					<li>deepDrillInfestationChanceFactor</li>
+					<li>wastepackInfestationChanceFactor</li>
+					<li>foodPoisonChanceFactor</li>
+					<li>maintenanceCostFactor</li>
+					<li>enemyDeathOnDownedChanceFactor</li>
+					<li>adaptationGrowthRateFactorOverZero</li>
+					<li>adaptationEffectFactor</li>
+					<li>questRewardValueFactor</li>
+					<li>raidLootPointsFactor</li>
+					<li>allowTraps</li>
+					<li>allowTurrets</li>
+					<li>allowMortars</li>
+					<li>classicMortars</li>
+					<li>allowExtremeWeatherIncidents</li>
+					<li>fixedWealthMode</li>
+					<li>fixedWealthTimeFactor</li>
+					<li>friendlyFireChanceFactor</li>
+					<li>allowInstantKillChance</li>
+					<li>nomadicMineableResourcesFactor</li>
+					<li>lowPopConversionBoost</li>
+					<li>minThreatPointsRangeCeiling</li>
+					<li>childAgingRate</li>
+					<li>adultAgingRate</li>
+					<li>unwaveringPrisoners</li>
+					<li>anomalyThreatsInactiveFraction</li>
+					<li>anomalyThreatsActiveFraction</li>
+					<li>overrideAnomalyThreatsFraction</li>
+					<li>studyEfficiencyFactor</li>
+				</keys>
+				<values>
+					<li>1</li>
+					<li>True</li>
+					<li>True</li>
+					<li>True</li>
+					<li>False</li>
+					<li>True</li>
+					<li>False</li>
+					<li>False</li>
+					<li>False</li>
+					<li>True</li>
+					<li>True</li>
+					<li>0.6</li>
+					<li>0</li>
+					<li>0</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>1</li>
+					<li>0.9</li>
+					<li>1</li>
+					<li>1</li>
+					<li>True</li>
+					<li>True</li>
+					<li>True</li>
+					<li>False</li>
+					<li>True</li>
+					<li>False</li>
+					<li>1</li>
+					<li>0.4</li>
+					<li>1</li>
+					<li>0.5</li>
+					<li>3</li>
+					<li>70</li>
+					<li>4</li>
+					<li>1</li>
+					<li>True</li>
+					<li>0.08</li>
+					<li>0.3</li>
+					<li />
+					<li>1</li>
+				</values>
+			</difficultySettings>
+			<anomalyPlaystyle>Standard</anomalyPlaystyle>
+			<permadeath>False</permadeath>
+		</storytellerDefaults>
 		<worldDefaults>
 			<pollution>0</pollution>
+			<mapSize>275</mapSize>
+			<startingSeason>Spring</startingSeason>
 			<factions>
 				<li>OutlanderCivil</li>
 				<li>OutlanderRoughPig</li>
-				<li>OutlanderRoughStoneborn</li>
 				<li>SettlerCivil</li>
 				<li>SettlerRough</li>
 				<li>SettlerSavage</li>
@@ -163,8 +290,18 @@
 				<li>VFEM2_ClanRough</li>
 				<li>Mechanoid</li>
 				<li>Insect</li>
+				<li>OutlanderRoughStoneborn</li>
 			</factions>
+			<knownFactions IsNull="True" />
 		</worldDefaults>
+		<defaultGoodwillRewards>
+			<keys />
+			<values />
+		</defaultGoodwillRewards>
+		<defaultRoyalFavorRewards>
+			<keys />
+			<values />
+		</defaultRoyalFavorRewards>
 		<hideSpeedButtons>True</hideSpeedButtons>
 		<eventSpeedMode>Ignore</eventSpeedMode>
 		<showPlayButtons>
@@ -187,12 +324,16 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>True</li>
 				<li>False</li>
 			</values>
 		</showPlayButtons>
+		<playButtonDefaults>
+			<keys />
+			<values />
+		</playButtonDefaults>
 		<mainButtons>
 			<li>
 				<defName>Architect</defName>
@@ -270,18 +411,21 @@
 			</li>
 			<li>
 				<defName>MintDesignators</defName>
-				<placement>Hidden</placement>
+				<placement>Dropdown</placement>
 				<look>TextAndIcon</look>
+				<followsMod>True</followsMod>
 			</li>
 			<li>
 				<defName>MintMenus</defName>
-				<placement>Hidden</placement>
+				<placement>Dropdown</placement>
 				<look>TextAndIcon</look>
+				<followsMod>True</followsMod>
 			</li>
 			<li>
 				<defName>MintResearch</defName>
-				<placement>Hidden</placement>
+				<placement>Dropdown</placement>
 				<look>TextAndIcon</look>
+				<followsMod>True</followsMod>
 			</li>
 			<li>
 				<defName>AutoRituals</defName>
@@ -305,22 +449,7 @@
 				<iconPath>UI/Icons/MainButtons/account-edit</iconPath>
 			</li>
 			<li>
-				<defName>GuardingP_GuardTab</defName>
-				<placement>Dropdown</placement>
-				<look>TextAndIcon</look>
-			</li>
-			<li>
 				<defName>VFEE_Royalty</defName>
-				<placement>Dropdown</placement>
-				<look>TextAndIcon</look>
-			</li>
-			<li>
-				<defName>RocketWindow</defName>
-				<placement>Dropdown</placement>
-				<look>TextAndIcon</look>
-			</li>
-			<li>
-				<defName>InMemoriam</defName>
 				<placement>Dropdown</placement>
 				<look>TextAndIcon</look>
 			</li>
@@ -335,46 +464,48 @@
 				<look>TextAndIcon</look>
 			</li>
 			<li>
+				<defName>XmlExtensions_MainButton_ModSettings</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+				<followsMod>True</followsMod>
+			</li>
+			<li>
+				<defName>WVC_MechsWork</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>RocketWindow</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>InMemoriam</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
 				<defName>MCE_CharacterEditor</defName>
 				<placement>Dropdown</placement>
 				<look>TextAndIcon</look>
 			</li>
 			<li>
-				<defName>XmlExtensions_MainButton_ModSettings</defName>
-				<placement>Hidden</placement>
+				<defName>Guests</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>Patients</defName>
+				<placement>Dropdown</placement>
+				<look>TextAndIcon</look>
+			</li>
+			<li>
+				<defName>Rimblings_VoiceEditor</defName>
+				<placement>Dropdown</placement>
 				<look>TextAndIcon</look>
 			</li>
 		</mainButtons>
 		<hudWidth>198</hudWidth>
+		<savedWorldSearches />
 	</ModSettings>
-	<seenText>
-		<li>Successfully uploaded Auto Name Babies.</li>
-		<li>Successfully uploaded Genesis Mod Configs.</li>
-		<li>Tribal gathering is now scheduled to begin daily at this time.</li>
-		<li>Tribal gathering has begun.</li>
-		<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
-		<li>Wild man joins</li>
-		<li>Encouraging tribal gathering</li>
-		<li>tribal gathering has been completed.</li>
-		<li>5 things designated</li>
-		<li>1 things designated</li>
-		<li>9 things designated</li>
-		<li>Visitor</li>
-		<li>Fallen monolith</li>
-		<li>Visitors from Bolé Tribe are leaving.</li>
-		<li>Gift from Bolé Tribe</li>
-		<li>Uninspiring tribal gathering</li>
-		<li>Mad crow</li>
-		<li>Blood Moon</li>
-		<li>Game Saved: Bad Event</li>
-		<li>Visitors</li>
-		<li>The blood moon has ended.</li>
-		<li>Critical alert: Major break risk</li>
-		<li>Chopped meat x10 has rotted away in storage.</li>
-		<li>Baby food x18 has rotted away in storage.</li>
-		<li>Goat doe 4 is pregnant!</li>
-		<li>Lercha has gotten food poisoning from: Milk. Cause: Dangerous food type.</li>
-		<li>Quest available: Support The Purple Sound Settlement</li>
-		<li>Exported mod-settings for Vanilla UI+ to C:\Users\crues\Desktop\Mod_Vanilla UI+_UiPlusMod.xml</li>
-	</seenText>
 </SettingsBlock>

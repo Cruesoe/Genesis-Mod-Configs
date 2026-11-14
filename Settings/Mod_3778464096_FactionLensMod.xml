@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FactionLens.Settings.FactionLensSettings">
+		<labelOpacity>0.900000036</labelOpacity>
+		<labelsOnHoverOnly>True</labelsOnHoverOnly>
+	</ModSettings>
+</SettingsBlock>

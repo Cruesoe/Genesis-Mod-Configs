@@ -576,6 +576,35 @@
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFVehicleFrameworkFactionsStockVehiclePartsMin</li>
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFVehicleFrameworkFactionsStockVehiclePartsMax</li>
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFVehicleFrameworkFasterVehicles</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterTrapsOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBulkProcessing</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFArcheanReplantable</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFArcheanSeedsSpawnOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFMovableAnomalies</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFHarbingerReplantable</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFHarbingerSeedsOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFHarbingerSeedsSpawnOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFGauranlenNoArtificialBuilding</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFGauranlenReplantable</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFGauranlenSeedsSpawnOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFAnimaGrassNeverDies</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFAnimaMeditationStrengthOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFAnimaNoArtificialBuilding</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFAnimaReplantable</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFAnimaSeedsSpawnOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterHiddenUtilities</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterRoomStats</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFChunksMakeAnyBlocks</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFSterileTilesBeauty</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterTrapsAdjacent</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterTrapsStoneSpikeTrap</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterTrapsCostOn</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterTrapsSpikeCost</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterTrapsAnimalTrapCost</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFBetterTrapsBearTrapCost</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFTweaksAnimaMeditationStrength</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFHarbingerSeedsMin</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFHarbingerSeedsMax</li>
 			</keys>
 			<values>
 				<li>20~40</li>
@@ -963,7 +992,7 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-        <li>False</li>
+				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -1151,6 +1180,35 @@
 				<li>5</li>
 				<li>10</li>
 				<li>2.0</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>45</li>
+				<li>45</li>
+				<li>65</li>
+				<li>0.28</li>
+				<li>0</li>
+				<li>1</li>
 			</values>
 		</dataDict>
 		<PinnedMods />

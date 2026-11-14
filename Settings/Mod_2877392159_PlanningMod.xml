@@ -12,44 +12,14 @@
 			</keys>
 			<values>
 				<li>
-					<color>Structure_White</color>
-					<isVisible>False</isVisible>
+					<color>Structure_Scarlet</color>
 				</li>
 				<li>
 					<color>Structure_White</color>
-					<isVisible>False</isVisible>
 				</li>
-				<li>
-					<isVisible>False</isVisible>
-				</li>
-				<li>
-					<isVisible>False</isVisible>
-				</li>
+				<li />
+				<li />
 			</values>
 		</planDesignationSettings>
 	</ModSettings>
-	<seenText>
-		<li>Successfully uploaded Auto Name Babies.</li>
-		<li>Successfully uploaded Genesis Mod Configs.</li>
-		<li>Tribal gathering is now scheduled to begin daily at this time.</li>
-		<li>Tribal gathering has begun.</li>
-		<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
-		<li>Wild man joins</li>
-		<li>Encouraging tribal gathering</li>
-		<li>tribal gathering has been completed.</li>
-		<li>5 things designated</li>
-		<li>1 things designated</li>
-		<li>9 things designated</li>
-		<li>Visitor</li>
-		<li>Fallen monolith</li>
-		<li>Visitors from Bolé Tribe are leaving.</li>
-		<li>Gift from Bolé Tribe</li>
-		<li>Uninspiring tribal gathering</li>
-		<li>Mad crow</li>
-		<li>Blood Moon</li>
-		<li>Game Saved: Bad Event</li>
-		<li>Visitors</li>
-		<li>The blood moon has ended.</li>
-		<li>Exported mod-settings for Planning Extended to C:\Users\crues\Desktop\Mod_2877392159_PlanningMod.xml</li>
-	</seenText>
 </SettingsBlock>
