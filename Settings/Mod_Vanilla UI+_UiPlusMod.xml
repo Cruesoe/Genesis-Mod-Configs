@@ -33,9 +33,9 @@
 			<li>Anything</li>
 			<li>Anything</li>
 			<li>Anything</li>
+			<li>Anything</li>
 			<li>Joy</li>
 			<li>Joy</li>
-			<li>Meditate</li>
 			<li>Sleep</li>
 			<li>Sleep</li>
 		</defaultSchedule>
@@ -153,7 +153,7 @@
 		<defaultAssignmentsSlave IsNull="True" />
 		<storytellerDefaults>
 			<storyteller>Cassandra</storyteller>
-			<difficulty>Rough</difficulty>
+			<difficulty>Medium</difficulty>
 			<difficultySettings>
 				<keys>
 					<li>threatScale</li>
@@ -209,36 +209,36 @@
 					<li>studyEfficiencyFactor</li>
 				</keys>
 				<values>
-					<li>1</li>
-					<li>True</li>
-					<li>True</li>
-					<li>True</li>
-					<li>False</li>
-					<li>True</li>
-					<li>False</li>
-					<li>False</li>
-					<li>False</li>
-					<li>True</li>
-					<li>True</li>
 					<li>0.6</li>
+					<li>True</li>
+					<li>True</li>
+					<li>True</li>
+					<li>False</li>
+					<li>True</li>
+					<li>False</li>
+					<li>False</li>
+					<li>False</li>
+					<li>True</li>
+					<li>True</li>
+					<li>0.333</li>
+					<li>5</li>
 					<li>0</li>
-					<li>0</li>
 					<li>1</li>
 					<li>1</li>
 					<li>1</li>
 					<li>1</li>
 					<li>1</li>
+					<li>1.5</li>
+					<li>0.5</li>
+					<li>0.75</li>
+					<li>1</li>
+					<li>0.75</li>
+					<li>0.5</li>
+					<li>0.75</li>
 					<li>1</li>
 					<li>1</li>
+					<li>0.75</li>
 					<li>1</li>
-					<li>1</li>
-					<li>1</li>
-					<li>1</li>
-					<li>1</li>
-					<li>1</li>
-					<li>1</li>
-					<li>1</li>
-					<li>0.9</li>
 					<li>1</li>
 					<li>1</li>
 					<li>True</li>
@@ -272,6 +272,7 @@
 			<factions>
 				<li>OutlanderCivil</li>
 				<li>OutlanderRoughPig</li>
+				<li>OutlanderRoughStoneborn</li>
 				<li>SettlerCivil</li>
 				<li>SettlerRough</li>
 				<li>SettlerSavage</li>
@@ -290,9 +291,41 @@
 				<li>VFEM2_ClanRough</li>
 				<li>Mechanoid</li>
 				<li>Insect</li>
-				<li>OutlanderRoughStoneborn</li>
 			</factions>
-			<knownFactions IsNull="True" />
+			<knownFactions>
+				<li>OutlanderCivil</li>
+				<li>OutlanderRough</li>
+				<li>OutlanderRoughPig</li>
+				<li>OutlanderRoughStoneborn</li>
+				<li>SettlerCivil</li>
+				<li>SettlerRough</li>
+				<li>SettlerSavage</li>
+				<li>TribeCivil</li>
+				<li>VFEM2_KingdomCivil</li>
+				<li>VFEM2_MerchantGuild</li>
+				<li>VFEP_Junkers</li>
+				<li>VFEP_Mercenaries</li>
+				<li>TribeCannibal</li>
+				<li>VFEM2_KingdomRough</li>
+				<li>NudistTribe</li>
+				<li>VFEM2_KingdomSavage</li>
+				<li>TribeRough</li>
+				<li>TribeRoughNeanderthal</li>
+				<li>TribeSavage</li>
+				<li>TribeSavageImpid</li>
+				<li>Pirate</li>
+				<li>PirateYttakin</li>
+				<li>PirateWaster</li>
+				<li>CannibalPirate</li>
+				<li>Empire</li>
+				<li>TradersGuild</li>
+				<li>VFEE_Deserters</li>
+				<li>VFEM2_ClanRough</li>
+				<li>VFEM2_ClanSavage</li>
+				<li>VFEM2_CivilClan</li>
+				<li>Mechanoid</li>
+				<li>Insect</li>
+			</knownFactions>
 		</worldDefaults>
 		<defaultGoodwillRewards>
 			<keys />
@@ -316,6 +349,8 @@
 				<li>map:ShowPlanToggle</li>
 				<li>map:ToggleVacuumOverlay</li>
 				<li>map:ToggleIcon</li>
+				<li>world:SearchToggle</li>
+				<li>map:ResourceReadoutCategorized</li>
 			</keys>
 			<values>
 				<li>False</li>
@@ -328,11 +363,53 @@
 				<li>False</li>
 				<li>True</li>
 				<li>False</li>
+				<li>False</li>
+				<li>True</li>
 			</values>
 		</showPlayButtons>
 		<playButtonDefaults>
-			<keys />
-			<values />
+			<keys>
+				<li>map:AutoRebuild</li>
+				<li>map:AutoHomeArea</li>
+				<li>map:ShowZones</li>
+				<li>map:ShowBeauty</li>
+				<li>map:ShowRoomStats</li>
+				<li>map:ShowColonistBar</li>
+				<li>map:ShowRoofOverlay</li>
+				<li>map:ShowFertilityOverlay</li>
+				<li>map:ShowTerrainAffordanceOverlay</li>
+				<li>map:ToggleHeatOverlay</li>
+				<li>map:ResourceReadoutCategorized</li>
+				<li>map:ShowPollutionOverlay</li>
+				<li>map:ShowOreOverlay</li>
+				<li>map:here</li>
+				<li>map:MinimapToggle</li>
+				<li>map:ShowPlanToggle</li>
+				<li>map:BlueprintOverRockToggle</li>
+				<li>map:OverlayToggle</li>
+				<li>map:ShowGasOverlay</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+			</values>
 		</playButtonDefaults>
 		<mainButtons>
 			<li>
