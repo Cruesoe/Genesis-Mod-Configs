@@ -758,7 +758,6 @@
 						<li>TrapIED_AntigrainWarhead</li>
 						<li>TrapIED_ToxGas</li>
 						<li>TrapIED_Deadlife</li>
-						<li>WaspDroneTrap</li>
 						<li>HunterDroneTrap</li>
 					</buildableDefNames>
 					<removedBuildableDefNames />
