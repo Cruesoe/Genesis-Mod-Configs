@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="TheseAreOurLands.TheseAreOurLandsSettings">
+    <reach>7</reach>
+    <disabledEvents />
+  </ModSettings>
+</SettingsBlock>

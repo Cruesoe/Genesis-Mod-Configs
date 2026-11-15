@@ -11,7 +11,7 @@
   <description>
     Cruesoe's mod settings preset for the Genesis suite. Applies preferred settings to third-party mods installed alongside Genesis, the same way ferny's Mod Configs does for the original Progression modpack.
 
-    Inspired by ferny's Mod Configs, but not a fork of it: built fresh for Genesis's own tuning choices.
+    Includes the ferny's Mod Configs settings that apply to the Genesis Mod Pack, so ferny's Mod Configs is no longer needed alongside it.
   </description>
   <modDependencies>
     <li>
