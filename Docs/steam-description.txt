@@ -8,6 +8,9 @@ Applies preferred settings to third-party mods installed alongside Genesis, the 
 [*]Built fresh for Genesis rather than forked from ferny's Mod Configs.
 [/list]
 
+[h2]How it works[/h2]
+Requires [b]Auto Mod Config (Continued)[/b]. The preset is applied the first time you launch with it. Later updates merge into your settings without overwriting changes you made yourself. To go back to the preset, use [b]Reset to Preset[/b] in Auto Mod Config's mod options.
+
 [h2]Compatibility[/h2]
 Safe to add to an existing save.
 

@@ -1,40 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="BlockUnwantedMinutiae.BUMSettings">
-		<taintedMessagePatch>True</taintedMessagePatch>
-		<idleColonistsPatch>True</idleColonistsPatch>
-		<drawAutoSelectCheckboxPatch>True</drawAutoSelectCheckboxPatch>
-		<customFilters>
-			<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
-		</customFilters>
-		<seenText>
-			<li>Loading Wild men25</li>
-			<li>220 things allowed (corpses excluded)</li>
-			<li>Semi Random Research is active.</li>
-			<li>Warning: Research will not begin until you build a research bench.</li>
-			<li>You cannot access these eras yet. Complete foundations and advance to reach these trees.</li>
-			<li>Exported mod-settings for Vanilla UI+ to C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Genesis Mod Configs\Settings\Mod_Vanilla UI+_UiPlusMod.xml</li>
-			<li>Starting from the basics</li>
-			<li>Must designate abandoned claimable structures or items.</li>
-			<li>26 things designated</li>
-			<li>Tribal gathering is now scheduled to begin daily at this time.</li>
-			<li>Tribal gathering has begun.</li>
-			<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
-		</seenText>
-	</ModSettings>
-	<seenText>
-		<li>Loading Wild men25</li>
-		<li>220 things allowed (corpses excluded)</li>
-		<li>Semi Random Research is active.</li>
-		<li>Warning: Research will not begin until you build a research bench.</li>
-		<li>You cannot access these eras yet. Complete foundations and advance to reach these trees.</li>
-		<li>Exported mod-settings for Vanilla UI+ to C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Genesis Mod Configs\Settings\Mod_Vanilla UI+_UiPlusMod.xml</li>
-		<li>Starting from the basics</li>
-		<li>Must designate abandoned claimable structures or items.</li>
-		<li>26 things designated</li>
-		<li>Tribal gathering is now scheduled to begin daily at this time.</li>
-		<li>Tribal gathering has begun.</li>
-		<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
-		<li>Exported mod-settings for BUM: Block Unwanted Minutiae to C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Genesis Mod Configs\Settings\Mod_3278213153_BUMMod.xml</li>
-	</seenText>
+  <ModSettings Class="BlockUnwantedMinutiae.BUMSettings">
+    <taintedMessagePatch>True</taintedMessagePatch>
+    <idleColonistsPatch>True</idleColonistsPatch>
+    <drawAutoSelectCheckboxPatch>True</drawAutoSelectCheckboxPatch>
+    <customFilters>
+      <li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
+    </customFilters>
+  </ModSettings>
 </SettingsBlock>

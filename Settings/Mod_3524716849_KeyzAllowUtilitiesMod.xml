@@ -1,53 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="KeyzAllowUtilities.Settings">
-		<DisableMeleeRequirementForFinishOff>True</DisableMeleeRequirementForFinishOff>
-	</ModSettings>
-	<seenText>
-		<li>Successfully uploaded Auto Name Babies.</li>
-		<li>Successfully uploaded Genesis Mod Configs.</li>
-		<li>Tribal gathering is now scheduled to begin daily at this time.</li>
-		<li>Tribal gathering has begun.</li>
-		<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
-		<li>Wild man joins</li>
-		<li>Encouraging tribal gathering</li>
-		<li>tribal gathering has been completed.</li>
-		<li>5 things designated</li>
-		<li>1 things designated</li>
-		<li>9 things designated</li>
-		<li>Visitor</li>
-		<li>Fallen monolith</li>
-		<li>Visitors from Bolé Tribe are leaving.</li>
-		<li>Gift from Bolé Tribe</li>
-		<li>Uninspiring tribal gathering</li>
-		<li>Mad crow</li>
-		<li>Blood Moon</li>
-		<li>Game Saved: Bad Event</li>
-		<li>Visitors</li>
-		<li>The blood moon has ended.</li>
-		<li>Successfully uploaded Vanilla Combat Overhaul.</li>
-		<li>Loading The People of Eden</li>
-		<li>Quest active: Lebra's Stash of Supplies</li>
-		<li>Critical alert: Fire!</li>
-		<li>Eclipse</li>
-		<li>Discovered Trench!</li>
-		<li>Warning: Research will not begin until you build a research bench.</li>
-		<li>Eve's pregnancy progressed from 1st to 2nd trimester.</li>
-		<li>Fresh carrion spotted: Donkey (dead)</li>
-		<li>Fresh carrion spotted: Hare (dead)</li>
-		<li>The eclipse is ending.</li>
-		<li>Raid: Tribe of Ryshwooberg</li>
-		<li>Yttakin from Tribe of Ryshwooberg are beginning their assault.</li>
-		<li>Ewe 1 has given birth.</li>
-		<li>Undrafted 5 colonists.</li>
-		<li>Ineffective tribal gathering</li>
-		<li>Bulk goods trader from Notda</li>
-		<li>Quest active: Adiemus's Rescue</li>
-		<li>Quest available: The Deserter</li>
-		<li>Discovered Pelt coat!</li>
-		<li>This person's nickname is now Worm. His title is Builder.</li>
-		<li>The trade caravan from Notda is leaving.</li>
-		<li>Ram 1 has started to roam away! He will leave the map unless an animal handler ropes him back to a pen.</li>
-		<li>Exported mod-settings for Keyz' Allow Utilities to C:\Users\crues\Desktop\Mod_3524716849_KeyzAllowUtilitiesMod.xml</li>
-	</seenText>
+  <ModSettings Class="KeyzAllowUtilities.Settings">
+    <DisableMeleeRequirementForFinishOff>True</DisableMeleeRequirementForFinishOff>
+  </ModSettings>
 </SettingsBlock>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="CM_Semi_Random_Research.SemiRandomResearchSettings">
+    <allowManualReroll>Once</allowManualReroll>
+    <availableProjectCount>5</availableProjectCount>
+    <maxProjectCount>6</maxProjectCount>
+    <forceLowestTechLevel>True</forceLowestTechLevel>
+    <showResearchRateGraph>False</showResearchRateGraph>
+    <showCompletionLetter>False</showCompletionLetter>
+    <autoOpenOnCompletion>False</autoOpenOnCompletion>
+    <researchTabOwner>Organized</researchTabOwner>
+    <preferredResearchTree>Organized</preferredResearchTree>
+    <settingsVersion>2</settingsVersion>
+    <suppressHandoverMessages>True</suppressHandoverMessages>
+  </ModSettings>
+</SettingsBlock>

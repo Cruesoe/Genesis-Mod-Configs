@@ -1,134 +1,82 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="VSE.SkillsModSettings">
-		<LevelToGetExpertise>20</LevelToGetExpertise>
-		<passionCommonalities>
-			<keys>
-				<li>Minor</li>
-				<li>Major</li>
-				<li>VSE_Natural</li>
-				<li>VSE_Critical</li>
-				<li>AS_PainDrivenPassion</li>
-				<li>AS_SanguinePassion</li>
-				<li>AS_ToxicPassion</li>
-				<li>AS_DrunkenPassion</li>
-				<li>AS_SynergisticPassion</li>
-				<li>AS_NightPassion</li>
-				<li>AS_YouthPassion</li>
-				<li>AS_DedicatedPassion</li>
-				<li>AS_ObsessivePassion</li>
-				<li>AS_VengefulPassion</li>
-				<li>AS_VengefulPassion_Active</li>
-				<li>AS_ForbiddenPassion</li>
-				<li>AS_NomadicPassion</li>
-				<li>AS_NomadicPassion_Active</li>
-				<li>None</li>
-				<li>VSE_Apathy</li>
-				<li>AS_FrozenPassion</li>
-				<li>AS_PsychicPassion_Minor</li>
-				<li>AS_IdeologicalPassion</li>
-				<li>AS_BlindPassion_Elevated</li>
-				<li>AS_BlindPassion_Sublime</li>
-				<li>AS_TranshumanistPassion</li>
-				<li>AS_StonedPassion</li>
-				<li>AS_MoodyPassion</li>
-				<li>AS_LikeMindedPassion</li>
-				<li>AS_RainyDayPassion</li>
-				<li>AS_CompetitivePassion</li>
-				<li>AS_NudistPassion</li>
-				<li>AS_IntimatePassion</li>
-				<li>AS_DuncePassion</li>
-				<li>AS_TraumaticPassion</li>
-			</keys>
-			<values>
-				<li>1.5</li>
-				<li>1</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0.5</li>
-				<li>0.5</li>
-				<li>0.5</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0.5</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0.150000006</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0.5</li>
-				<li>0.100000001</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0.5</li>
-				<li>0.5</li>
-				<li>0.5</li>
-				<li>0</li>
-				<li>0.100000001</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0.100000001</li>
-				<li>0.5</li>
-				<li>0</li>
-				<li>0</li>
-				<li>0.100000001</li>
-			</values>
-		</passionCommonalities>
-	</ModSettings>
-	<seenText>
-		<li>Cat, Cook is fully healed.</li>
-		<li>Irbo, Animals is fully healed.</li>
-		<li>A group of travelers from Enbo Dynasty are passing by.</li>
-		<li>Bill complete: Make baby tribalwear.</li>
-		<li>Spring Jubilee opportunity</li>
-		<li>Spring Jubilee has begun.</li>
-		<li>You've detected a hunting work site nearby controlled by Treaty of Iñobo.</li>
-		<li>Development points changed from 0 to 4 (Spring Jubilee).</li>
-		<li>Boring Spring Jubilee</li>
-		<li>Spring Jubilee has been completed.</li>
-		<li>Alpaca 1 has given birth.</li>
-		<li>Insulting spree: Mongoose</li>
-		<li>Mongoose has refused to be arrested!</li>
-		<li>Mongoose is no longer on an insulting spree.</li>
-		<li>Berserk: Mongoose</li>
-		<li>Mongoose's berserk rage has come to an end.</li>
-		<li>Alpaca 1 is pregnant!</li>
-		<li>Food binge: Irbo</li>
-		<li>Eve failed to calm Irbo down.</li>
-		<li>Crisis of belief: Cat</li>
-		<li>Irbo is no longer pigging out on food.</li>
-		<li>Mongoose, Farmer is no longer incapable of walking.</li>
-		<li>hay has deteriorated away in storage.</li>
-		<li>Goat doe 2 has given birth.</li>
-		<li>Hide in room: Worm</li>
-		<li>Worm is no longer hiding in his room.</li>
-		<li>Insulting spree: Eve</li>
-		<li>Since Eve became a prisoner, she no longer can hold the role of Priestess.</li>
-		<li>Quest available: Lekapenos's Busted Shuttle</li>
-		<li>Role change has begun.</li>
-		<li>Goat doe 1 has given birth.</li>
-		<li>Visitors</li>
-		<li>Successful role change</li>
-		<li>Adam now holds the role of Priest.</li>
-		<li>role change has been completed.</li>
-		<li>2 things allowed (corpses excluded)</li>
-		<li>Visitors from Enbo Dynasty are leaving.</li>
-		<li>Yak 1 has given birth.</li>
-		<li>Ambrosia x109 has rotted away in storage.</li>
-		<li>You've detected a logging work site nearby controlled by Federation of Polund.</li>
-		<li>Blood Moon</li>
-		<li>You've detected a logging work site nearby controlled by Clade of Rotheoch.</li>
-		<li>First Steps</li>
-		<li>Gauranlen pod sprout</li>
-		<li>The blood moon has ended.</li>
-		<li>Snoozed Hayweave. It will not be offered again.</li>
-		<li>Dark scholar</li>
-		<li>Chernov wants to join</li>
-		<li>Quest active: ERR: Saving [refugee_nameDef]</li>
-		<li>Exported mod-settings for Vanilla Skills Expanded to C:\Users\crues\Desktop\Mod_3400246558_SkillsMod.xml</li>
-	</seenText>
+  <ModSettings Class="VSE.SkillsModSettings">
+    <LevelToGetExpertise>20</LevelToGetExpertise>
+    <passionCommonalities>
+      <keys>
+        <li>Minor</li>
+        <li>Major</li>
+        <li>VSE_Natural</li>
+        <li>VSE_Critical</li>
+        <li>AS_PainDrivenPassion</li>
+        <li>AS_SanguinePassion</li>
+        <li>AS_ToxicPassion</li>
+        <li>AS_DrunkenPassion</li>
+        <li>AS_SynergisticPassion</li>
+        <li>AS_NightPassion</li>
+        <li>AS_YouthPassion</li>
+        <li>AS_DedicatedPassion</li>
+        <li>AS_ObsessivePassion</li>
+        <li>AS_VengefulPassion</li>
+        <li>AS_VengefulPassion_Active</li>
+        <li>AS_ForbiddenPassion</li>
+        <li>AS_NomadicPassion</li>
+        <li>AS_NomadicPassion_Active</li>
+        <li>None</li>
+        <li>VSE_Apathy</li>
+        <li>AS_FrozenPassion</li>
+        <li>AS_PsychicPassion_Minor</li>
+        <li>AS_IdeologicalPassion</li>
+        <li>AS_BlindPassion_Elevated</li>
+        <li>AS_BlindPassion_Sublime</li>
+        <li>AS_TranshumanistPassion</li>
+        <li>AS_StonedPassion</li>
+        <li>AS_MoodyPassion</li>
+        <li>AS_LikeMindedPassion</li>
+        <li>AS_RainyDayPassion</li>
+        <li>AS_CompetitivePassion</li>
+        <li>AS_NudistPassion</li>
+        <li>AS_IntimatePassion</li>
+        <li>AS_DuncePassion</li>
+        <li>AS_TraumaticPassion</li>
+      </keys>
+      <values>
+        <li>1.5</li>
+        <li>1</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0.5</li>
+        <li>0.5</li>
+        <li>0.5</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0.5</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0.150000006</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0.5</li>
+        <li>0.100000001</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0.5</li>
+        <li>0.5</li>
+        <li>0.5</li>
+        <li>0</li>
+        <li>0.100000001</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0.100000001</li>
+        <li>0.5</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0.100000001</li>
+      </values>
+    </passionCommonalities>
+  </ModSettings>
 </SettingsBlock>

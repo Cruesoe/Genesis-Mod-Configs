@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="ProgressionEducation.EducationSettings">
+    <bestowProficiencyToAll>True</bestowProficiencyToAll>
+    <showClassSuspendedAlert>True</showClassSuspendedAlert>
+  </ModSettings>
+</SettingsBlock>

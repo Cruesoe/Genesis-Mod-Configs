@@ -1,33 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="WantsAndQuirks.WantsAndQuirksSettings">
-		<rerollBubblesOnSelection>True</rerollBubblesOnSelection>
-		<pointsNeededIncreasePerCompletion>1000</pointsNeededIncreasePerCompletion>
-		<disabledWantDefNames />
-		<wantCommonalityModifiers>
-			<keys />
-			<values />
-		</wantCommonalityModifiers>
-		<disabledRewardDefNames />
-	</ModSettings>
-	<seenText>
-		<li>Loading Wild men25</li>
-		<li>220 things allowed (corpses excluded)</li>
-		<li>Semi Random Research is active.</li>
-		<li>Warning: Research will not begin until you build a research bench.</li>
-		<li>You cannot access these eras yet. Complete foundations and advance to reach these trees.</li>
-		<li>Exported mod-settings for Vanilla UI+ to C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Genesis Mod Configs\Settings\Mod_Vanilla UI+_UiPlusMod.xml</li>
-		<li>Starting from the basics</li>
-		<li>Must designate abandoned claimable structures or items.</li>
-		<li>26 things designated</li>
-		<li>Tribal gathering is now scheduled to begin daily at this time.</li>
-		<li>Tribal gathering has begun.</li>
-		<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
-		<li>Exported mod-settings for BUM: Block Unwanted Minutiae to C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Genesis Mod Configs\Settings\Mod_3278213153_BUMMod.xml</li>
-		<li>Uninspiring tribal gathering</li>
-		<li>tribal gathering has been completed.</li>
-		<li>Requires walls on both sides.</li>
-		<li>Space already occupied.</li>
-		<li>Exported mod-settings for Character Development to C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Genesis Mod Configs\Settings\Mod_3770112044_WantsAndQuirksMod.xml</li>
-	</seenText>
+  <ModSettings Class="WantsAndQuirks.WantsAndQuirksSettings">
+    <rerollBubblesOnSelection>True</rerollBubblesOnSelection>
+    <pointsNeededIncreasePerCompletion>1000</pointsNeededIncreasePerCompletion>
+    <disabledWantDefNames />
+    <wantCommonalityModifiers>
+      <keys />
+      <values />
+    </wantCommonalityModifiers>
+    <disabledRewardDefNames />
+  </ModSettings>
 </SettingsBlock>
