@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="ImprovedWorkbenches.ModSettings_ImprovedWorkbenches">
-		<dropOnFloorByDefault>True</dropOnFloorByDefault>
-	</ModSettings>
-	<seenText>
-		<li>Bill complete: Make torch belt.</li>
-		<li>Warning: Research will not begin until you build a research bench.</li>
-		<li>Exported mod-settings for Better Workbench Management to C:\Users\crues\Desktop\Mod_935982361_Mod_ImprovedWorkbenches.xml</li>
-	</seenText>
+  <ModSettings Class="ImprovedWorkbenches.ModSettings_ImprovedWorkbenches">
+    <dropOnFloorByDefault>True</dropOnFloorByDefault>
+  </ModSettings>
 </SettingsBlock>

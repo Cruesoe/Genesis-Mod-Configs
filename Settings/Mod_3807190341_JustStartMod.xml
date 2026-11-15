@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="JustStart.JustStartSettings">
+    <excludeExtremeBiomes>True</excludeExtremeBiomes>
+    <defaultIdeologyMode>Fluid</defaultIdeologyMode>
+    <xenotypeMode>Scenario</xenotypeMode>
+  </ModSettings>
+</SettingsBlock>

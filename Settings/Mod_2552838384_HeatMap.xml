@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="HeatMap.HeatMapSettings">
-		<ShowOutdoorThermometer>False</ShowOutdoorThermometer>
-	</ModSettings>
-	<seenText>
-		<li>Starting from the basics</li>
-		<li>Exported mod-settings for Heat Map to C:\Users\crues\Desktop\Mod_2552838384_HeatMap.xml</li>
-	</seenText>
+  <ModSettings Class="HeatMap.HeatMapSettings">
+    <ShowOutdoorThermometer>False</ShowOutdoorThermometer>
+  </ModSettings>
 </SettingsBlock>

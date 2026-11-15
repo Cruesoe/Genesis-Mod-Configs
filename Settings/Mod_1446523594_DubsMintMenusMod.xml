@@ -1,75 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="DubsMintMenus.Settings">
-		<GearMenuActive>True</GearMenuActive>
-		<BuildMenuPosNew>(0, 395)</BuildMenuPosNew>
-		<BuildMenuSizeNew>(1000, 550)</BuildMenuSizeNew>
-		<ShowMintBillsButton>True</ShowMintBillsButton>
-		<HideFinished>True</HideFinished>
-		<BoxSizeX>90</BoxSizeX>
-		<BoxSizeY>75</BoxSizeY>
-		<infocardW>350</infocardW>
-		<MaxHeight>650</MaxHeight>
-		<InfoWidth>358</InfoWidth>
-		<billTabH>300</billTabH>
-		<bBoxSizeY>55</bBoxSizeY>
-		<listWidth>445</listWidth>
-		<ResearchListWidth>350</ResearchListWidth>
-		<WheelOnRightClick>True</WheelOnRightClick>
-		<WheelLayout>Grid</WheelLayout>
-		<WheelSlots />
-		<WheelGridSlots>
-			<li>RimWorld.Designator_Haul</li>
-			<li>RimWorld.Designator_PlantsHarvestWood</li>
-			<li>RimWorld.Designator_PlantsHarvest</li>
-			<li>RimWorld.Designator_Slaughter</li>
-			<li>RimWorld.Designator_Hunt</li>
-			<li>RimWorld.Designator_Mine</li>
-			<li>RimWorld.Designator_Unforbid</li>
-			<li>RimWorld.Designator_Forbid</li>
-			<li>Door</li>
-			<li>RimWorld.Designator_Deconstruct</li>
-			<li>Wall</li>
-			<li IsNull="True" />
-		</WheelGridSlots>
-		<DesignatorBarList IsNull="True" />
-		<pinnedArchitectTabs />
-		<ResourceReadout />
-		<WheelDefs>
-			<li>RimWorld.Designator_Haul</li>
-			<li>RimWorld.Designator_PlantsHarvestWood</li>
-			<li>RimWorld.Designator_PlantsHarvest</li>
-			<li>RimWorld.Designator_Slaughter</li>
-			<li>RimWorld.Designator_Hunt</li>
-			<li>RimWorld.Designator_Mine</li>
-			<li>RimWorld.Designator_Unforbid</li>
-			<li>RimWorld.Designator_Forbid</li>
-			<li>Door</li>
-			<li>RimWorld.Designator_Deconstruct</li>
-			<li>Wall</li>
-			<li>RimWorld.Designator_AreaHomeExpand</li>
-			<li>RimWorld.Designator_AreaHomeClear</li>
-			<li>RimWorld.Designator_AreaAllowedExpand</li>
-			<li>RimWorld.Designator_AreaAllowedClear</li>
-		</WheelDefs>
-		<FBenchTemplates />
-	</ModSettings>
-	<seenText>
-		<li>Loading Wild men25</li>
-		<li>220 things allowed (corpses excluded)</li>
-		<li>Semi Random Research is active.</li>
-		<li>Warning: Research will not begin until you build a research bench.</li>
-		<li>You cannot access these eras yet. Complete foundations and advance to reach these trees.</li>
-		<li>Exported mod-settings for Vanilla UI+ to C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Genesis Mod Configs\Settings\Mod_Vanilla UI+_UiPlusMod.xml</li>
-		<li>Starting from the basics</li>
-		<li>Must designate abandoned claimable structures or items.</li>
-		<li>26 things designated</li>
-		<li>Tribal gathering is now scheduled to begin daily at this time.</li>
-		<li>Tribal gathering has begun.</li>
-		<li>Tribal gathering: The introduction is over and the tribal gathering is beginning.</li>
-		<li>Exported mod-settings for BUM: Block Unwanted Minutiae to C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Genesis Mod Configs\Settings\Mod_3278213153_BUMMod.xml</li>
-		<li>Loading Laconian Empire</li>
-		<li>Eve's pregnancy progressed from 1st to 2nd trimester.</li>
-		<li>Exported mod-settings for Dubs Mint Menus to C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Genesis Mod Configs\Settings\Mod_1446523594_DubsMintMenusMod.xml</li>
-	</seenText>
+  <ModSettings Class="DubsMintMenus.Settings">
+    <GearMenuActive>True</GearMenuActive>
+    <BuildMenuPosNew>(0, 395)</BuildMenuPosNew>
+    <BuildMenuSizeNew>(1000, 550)</BuildMenuSizeNew>
+    <ShowMintBillsButton>True</ShowMintBillsButton>
+    <HideFinished>True</HideFinished>
+    <BoxSizeX>90</BoxSizeX>
+    <BoxSizeY>75</BoxSizeY>
+    <infocardW>350</infocardW>
+    <MaxHeight>650</MaxHeight>
+    <InfoWidth>358</InfoWidth>
+    <billTabH>300</billTabH>
+    <bBoxSizeY>55</bBoxSizeY>
+    <listWidth>445</listWidth>
+    <ResearchListWidth>350</ResearchListWidth>
+    <WheelOnRightClick>True</WheelOnRightClick>
+    <WheelLayout>Grid</WheelLayout>
+    <WheelSlots />
+    <WheelGridSlots>
+      <li>RimWorld.Designator_Haul</li>
+      <li>RimWorld.Designator_PlantsHarvestWood</li>
+      <li>RimWorld.Designator_PlantsHarvest</li>
+      <li>RimWorld.Designator_Slaughter</li>
+      <li>RimWorld.Designator_Hunt</li>
+      <li>RimWorld.Designator_Mine</li>
+      <li>RimWorld.Designator_Unforbid</li>
+      <li>RimWorld.Designator_Forbid</li>
+      <li>Door</li>
+      <li>RimWorld.Designator_Deconstruct</li>
+      <li>Wall</li>
+      <li IsNull="True" />
+    </WheelGridSlots>
+    <DesignatorBarList IsNull="True" />
+    <pinnedArchitectTabs />
+    <ResourceReadout />
+    <WheelDefs>
+      <li>RimWorld.Designator_Haul</li>
+      <li>RimWorld.Designator_PlantsHarvestWood</li>
+      <li>RimWorld.Designator_PlantsHarvest</li>
+      <li>RimWorld.Designator_Slaughter</li>
+      <li>RimWorld.Designator_Hunt</li>
+      <li>RimWorld.Designator_Mine</li>
+      <li>RimWorld.Designator_Unforbid</li>
+      <li>RimWorld.Designator_Forbid</li>
+      <li>Door</li>
+      <li>RimWorld.Designator_Deconstruct</li>
+      <li>Wall</li>
+      <li>RimWorld.Designator_AreaHomeExpand</li>
+      <li>RimWorld.Designator_AreaHomeClear</li>
+      <li>RimWorld.Designator_AreaAllowedExpand</li>
+      <li>RimWorld.Designator_AreaAllowedClear</li>
+    </WheelDefs>
+    <FBenchTemplates />
+  </ModSettings>
 </SettingsBlock>
