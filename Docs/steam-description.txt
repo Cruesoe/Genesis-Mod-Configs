@@ -5,7 +5,7 @@ Applies preferred settings to third-party mods installed alongside Genesis, the 
 [h2]Features[/h2]
 [list]
 [*]Sets Genesis's tuning choices in the supported third-party mods it finds installed.
-[*]Built fresh for Genesis rather than forked from ferny's Mod Configs.
+[*]Includes the ferny's Mod Configs settings that apply to the Genesis Mod Pack, so ferny's Mod Configs is no longer needed alongside it.
 [/list]
 
 [h2]How it works[/h2]
