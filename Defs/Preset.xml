@@ -2,6 +2,6 @@
     <ModlistConfigurator.ModlistPresetDef>
         <defName>GenesisConfigs</defName>
         <presetLabel>Genesis Configs</presetLabel>
-        <version>261116</version>
+        <version>261116b</version>
     </ModlistConfigurator.ModlistPresetDef>
 </Defs>
