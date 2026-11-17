@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UIRethemed.Quests.UIRethemedQuestsSettings">
+		<openSettings>
+			<li>Parts</li>
+			<li>Window</li>
+			<li>Style</li>
+		</openSettings>
+		<widthScale>0.800000012</widthScale>
+		<heightScale>0.800000012</heightScale>
+		<listShare>42</listShare>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,860 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UIRethemed.Architect.UIRethemedArchitectSettings">
+		<widthScale>1.17999995</widthScale>
+		<heightScale>1.09000003</heightScale>
+		<groupShare>11</groupShare>
+		<ordersColumns>2</ordersColumns>
+		<detailsAbove>True</detailsAbove>
+		<detailsHeight>222</detailsHeight>
+		<detailsFold>True</detailsFold>
+		<detailsCompact>True</detailsCompact>
+		<iconSource>UIRethemedArchitect_ArchitectIcons</iconSource>
+		<revealNew>True</revealNew>
+		<groupsColumn>True</groupsColumn>
+		<version>2</version>
+		<keepSeparate />
+		<nestsOff />
+		<detailNeeds>False</detailNeeds>
+		<detailStats>
+			<li>Work</li>
+			<li>Beauty</li>
+			<li>Comfort</li>
+			<li>HitPoints</li>
+			<li>Size</li>
+			<li>Power</li>
+		</detailStats>
+		<pickerStats>
+			<li>HitPoints</li>
+			<li>Beauty</li>
+			<li>Work</li>
+		</pickerStats>
+		<openSettings>
+			<li>Window</li>
+			<li>Details</li>
+			<li>Cards</li>
+		</openSettings>
+		<layout>
+			<nodes>
+				<li>
+					<key>Group_26</key>
+					<group>True</group>
+					<nestOf>Ferny_Colony</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Orders</key>
+							<children />
+						</li>
+						<li>
+							<key>Zone</key>
+							<children />
+						</li>
+						<li>
+							<key>Blueprints</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_ColonyLocations</key>
+							<children />
+						</li>
+						<li>
+							<key>PlanningExtended</key>
+							<children />
+						</li>
+						<li>
+							<key>Pathing</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Colony</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>CBF_Editor</key>
+					<children />
+				</li>
+				<li>
+					<key>Group_27</key>
+					<group>True</group>
+					<nestOf>Structure</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_Walls</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Doors</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Foundations</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Supports</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Elevation</key>
+							<children />
+						</li>
+						<li>
+							<key>Structure</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_33</key>
+					<group>True</group>
+					<nestOf>Production</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_Production</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_ProcessingProduction</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_CreativeProduction</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Kitchen</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Farming</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_ResearchProduction</key>
+							<children />
+						</li>
+						<li>
+							<key>MA_MythicProduction_Tribal</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Auxiliaries</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_ProductionInfrastructure</key>
+							<children />
+						</li>
+						<li>
+							<key>Production</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_34</key>
+					<group>True</group>
+					<nestOf>Ferny_Storage</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>EEG_MOxASFStorage</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_GeneralStorage</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_ResourcesStorage</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_InformationStorage</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_GearStorage</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_FoodStorage</key>
+							<children />
+						</li>
+						<li>
+							<key>DankPyon_RusticStorage</key>
+							<children />
+						</li>
+						<li>
+							<key>ASFstorage</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Storage</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_24</key>
+					<group>True</group>
+					<nestOf>Furniture</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_Seating</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Tables</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Bedroom</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Lighting</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Fixtures</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_DecoRugs</key>
+							<children />
+						</li>
+						<li>
+							<key>DankPyon_RusticDecoration</key>
+							<children />
+						</li>
+						<li>
+							<key>DankPyon_RusticFurniture</key>
+							<children />
+						</li>
+						<li>
+							<key>PonpecoFurniture</key>
+							<children />
+						</li>
+						<li>
+							<key>AR_Building</key>
+							<children />
+						</li>
+						<li>
+							<key>MF_Building</key>
+							<children />
+						</li>
+						<li>
+							<key>BS_Furniture</key>
+							<children />
+						</li>
+						<li>
+							<key>Furniture</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_28</key>
+					<group>True</group>
+					<nestOf>Ferny_Animals</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_Ranching</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_AnimalBedding</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_AnimalTravel</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_AnimalImplants</key>
+							<children />
+						</li>
+						<li>
+							<key>GR_GeneticsTab</key>
+							<children />
+						</li>
+						<li>
+							<key>VFEI2_Insectoids</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Animals</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_20</key>
+					<group>True</group>
+					<nestOf>VCHE_PipeNetworks</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Power</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Ultrawatt</key>
+							<children />
+						</li>
+						<li>
+							<key>Hygiene</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_ChemfuelNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_HelixienGasNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_NeutroamineNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_HemogenNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_ToxicWasteNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_MilkPipeNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_UraniumNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_LuciferiumNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_NutrientPasteNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>VCHE_PipeNetworks</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_25</key>
+					<group>True</group>
+					<nestOf>Security</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_Weapons</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Concealed</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Explosives</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Barricades</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Traps</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_CombatInfrastructure</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_CombatEquipment</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_AmmunitionNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Intelligences</key>
+							<children />
+						</li>
+						<li>
+							<key>Security</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_29</key>
+					<group>True</group>
+					<nestOf>Floors</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_FloorsWood</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_FloorsStone</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_FloorsConcrete</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_FloorsMetal</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_FloorsCarpet</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_FloorsClean</key>
+							<children />
+						</li>
+						<li>
+							<key>Floors</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_35</key>
+					<group>True</group>
+					<nestOf>Ferny_World</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_Outreach</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Summon</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Hacking</key>
+							<children />
+						</li>
+						<li>
+							<key>Anomaly</key>
+							<children />
+						</li>
+						<li>
+							<key>Misc</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_World</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_30</key>
+					<group>True</group>
+					<nestOf>Temperature</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_Heating</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Cooling</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_AirManagement</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Firefoam</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Filth</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Pollution</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Terraforming</key>
+							<children />
+						</li>
+						<li>
+							<key>Temperature</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_36</key>
+					<group>True</group>
+					<nestOf>Ferny_Transport</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_GroundTransport</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_AerialTransport</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_MilitaryTransport</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_NavalTransport</key>
+							<children />
+						</li>
+						<li>
+							<key>VMF_VehicleMap</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_TransportInfrastructure</key>
+							<children />
+						</li>
+						<li>
+							<key>VF_Vehicles</key>
+							<children />
+						</li>
+						<li>
+							<key>HE_Vehicles</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Transport</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_31</key>
+					<group>True</group>
+					<nestOf>Ferny_Biotech</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_Medical</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Enhancement</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Netcast</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Deathrest</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Biohazards</key>
+							<children />
+						</li>
+						<li>
+							<key>Biotech</key>
+							<children />
+						</li>
+						<li>
+							<key>VFEU_Ultratech</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Sleeving</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Biotech</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_21</key>
+					<group>True</group>
+					<nestOf>Ferny_Automation</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>VFEFactory_Factories</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Drones</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Mechanoids</key>
+							<children />
+						</li>
+						<li>
+							<key>UltratechAutomate</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Androids</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Automation</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_32</key>
+					<group>True</group>
+					<nestOf>Ferny_Life</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_Prisoners</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Childhood</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Memorial</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Management</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Control</key>
+							<children />
+						</li>
+						<li>
+							<key>Ideology</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Life</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_22</key>
+					<group>True</group>
+					<nestOf>Ferny_Hosting</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Joy</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Education</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Athletics</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Meditation</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Market</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Museum</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Jousting</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Aquarium</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Hosting</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_37</key>
+					<group>True</group>
+					<nestOf>Ferny_Space</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_SpacePlatform</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_SpaceVacuum</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_AstrofuelNetwork</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_SpaceCombat</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_SpaceFurniture</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_VehicleStorage</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_SpaceProduction</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_SpacePower</key>
+							<children />
+						</li>
+						<li>
+							<key>Ship</key>
+							<children />
+						</li>
+						<li>
+							<key>Odyssey</key>
+							<children />
+						</li>
+						<li>
+							<key>VGE_Platform</key>
+							<children />
+						</li>
+						<li>
+							<key>VGE_Vacuum</key>
+							<children />
+						</li>
+						<li>
+							<key>VGE_Fuel</key>
+							<children />
+						</li>
+						<li>
+							<key>VGE_Combat</key>
+							<children />
+						</li>
+						<li>
+							<key>VGE_Designer</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Space</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Group_23</key>
+					<group>True</group>
+					<nestOf>Ferny_Decorations</nestOf>
+					<collapsed>True</collapsed>
+					<children>
+						<li>
+							<key>Ferny_DecoPlants</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_DecoHanging</key>
+							<children />
+						</li>
+						<li>
+							<key>Eaves</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Framing</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_DecoFrames</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Windows</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_DecoOutdoor</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_DecoArt</key>
+							<children />
+						</li>
+						<li>
+							<key>MiniatureProps_Decoration</key>
+							<children />
+						</li>
+						<li>
+							<key>Dark_Signs</key>
+							<children />
+						</li>
+						<li>
+							<key>Ferny_Decorations</key>
+							<children />
+						</li>
+					</children>
+				</li>
+				<li>
+					<key>Ferny_PowerGeneration</key>
+					<children />
+				</li>
+				<li>
+					<key>Ferny_PowerStorage</key>
+					<children />
+				</li>
+				<li>
+					<key>Ferny_PowerManagement</key>
+					<children />
+				</li>
+			</nodes>
+			<nextGroup>38</nextGroup>
+			<version>2</version>
+			<nested>True</nested>
+		</layout>
+		<favourites />
+		<hiddenItems />
+		<wrapped />
+	</ModSettings>
+</SettingsBlock>
