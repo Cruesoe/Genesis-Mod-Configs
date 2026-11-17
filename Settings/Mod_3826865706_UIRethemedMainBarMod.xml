@@ -1,352 +1,352 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="UIRethemed.MainBar.UIRethemedMainBarSettings">
-		<barItemsVersion>1</barItemsVersion>
-		<vanillaItems>Temperature</vanillaItems>
-		<readoutIcons>True</readoutIcons>
-		<dateParts>Hour, Day, Quadrum, Year</dateParts>
-		<hiddenMenuEntries>
-			<li>ShowModUpdates_ModUpdates</li>
-		</hiddenMenuEntries>
-		<layout>
-			<nodes>
-				<li>
-					<key>DMMB_MainButtonsMenu</key>
-					<children />
-				</li>
-				<li>
-					<key>Architect</key>
-					<children />
-				</li>
-				<li>
-					<key>GunRecoil</key>
-					<children />
-				</li>
-				<li>
-					<key>Group_7</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>Work</key>
-							<children />
-						</li>
-						<li>
-							<key>Schedule</key>
-							<children />
-						</li>
-						<li>
-							<key>Assign</key>
-							<children />
-						</li>
-						<li>
-							<key>MintBillMenu</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>Group_4</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>PauseSettlementTab</key>
-							<children />
-						</li>
-						<li>
-							<key>MedicalTab</key>
-							<children />
-						</li>
-						<li>
-							<key>PE_Education</key>
-							<children />
-						</li>
-						<li>
-							<key>CL_ModuleCenter</key>
-							<children />
-						</li>
-						<li>
-							<key>SW_Warrants</key>
-							<children />
-						</li>
-						<li>
-							<key>CorpseTab_Corpses</key>
-							<children />
-						</li>
-						<li>
-							<key>AutoRituals</key>
-							<children />
-						</li>
-						<li>
-							<key>MintGearMenu</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>Group_6</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>Wildlife</key>
-							<children />
-						</li>
-						<li>
-							<key>Animals</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>Group_8</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>World</key>
-							<children />
-						</li>
-						<li>
-							<key>Quests</key>
-							<children />
-						</li>
-						<li>
-							<key>Factions</key>
-							<children />
-						</li>
-						<li>
-							<key>Ideos</key>
-							<children />
-						</li>
-						<li>
-							<key>WFS_TradeStock</key>
-							<children />
-						</li>
-						<li>
-							<key>OutpostManager</key>
-							<children />
-						</li>
-						<li>
-							<key>VFEE_Royalty</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>Research</key>
-					<children />
-				</li>
-				<li>
-					<key>Group_1</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>DrawIt_Tab</key>
-							<children />
-						</li>
-						<li>
-							<key>PhotoMode</key>
-							<children />
-						</li>
-						<li>
-							<key>ToDoListButton</key>
-							<children />
-						</li>
-						<li>
-							<key>DubsOptimizer</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>Group_3</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>History</key>
-							<children />
-						</li>
-						<li>
-							<key>UIRethemedNotifications_Calendar</key>
-							<children />
-						</li>
-						<li>
-							<key>KeyzReferenceTools_MainButton</key>
-							<children />
-						</li>
-						<li>
-							<key>MEV_EpidemiologyRecord</key>
-							<children />
-						</li>
-						<li>
-							<key>InMemoriam</key>
-							<children />
-						</li>
-						<li>
-							<key>GeneLedger</key>
-							<children />
-						</li>
-						<li>
-							<key>kNumbersOverviewTab</key>
-							<children />
-						</li>
-						<li>
-							<key>OmniTabButton</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>Group_5</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>UIRethemedRelationships_Relationships</key>
-							<children />
-						</li>
-						<li>
-							<key>FamilyTree</key>
-							<children />
-						</li>
-						<li>
-							<key>WQ_CharactersMenu</key>
-							<children />
-						</li>
-						<li>
-							<key>Patients</key>
-							<children />
-						</li>
-						<li>
-							<key>Guests</key>
-							<children />
-						</li>
-						<li>
-							<key>PS_Psycasters</key>
-							<children />
-						</li>
-						<li>
-							<key>Asimov_Automatons</key>
-							<children />
-						</li>
-						<li>
-							<key>VQE_Drones</key>
-							<children />
-						</li>
-						<li>
-							<key>Mechs</key>
-							<children />
-						</li>
-						<li>
-							<key>WVC_MechsWork</key>
-							<children />
-						</li>
-						<li>
-							<key>SM_MechWork</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>Group_2</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>HatHairControlSettings</key>
-							<children />
-						</li>
-						<li>
-							<key>NLFaceSelectTab</key>
-							<children />
-						</li>
-						<li>
-							<key>Rimblings_VoiceEditor</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>PaintShop</key>
-					<children />
-				</li>
-				<li>
-					<key>DMMB_PlaySettingsMenu</key>
-					<children />
-				</li>
-				<li>
-					<key>UIRethemedMainBar_Search</key>
-					<children />
-				</li>
-			</nodes>
-			<nextId>9</nextId>
-		</layout>
-		<hiddenButtons />
-		<buttonNames>
-			<keys>
-				<li>Group_1</li>
-				<li>Group_2</li>
-				<li>Group_3</li>
-				<li>Group_4</li>
-				<li>Group_5</li>
-				<li>Group_6</li>
-				<li>Animals</li>
-				<li>Group_7</li>
-				<li>MintGearMenu</li>
-				<li>Group_8</li>
-				<li>World</li>
-			</keys>
-			<values>
-				<li>Tools</li>
-				<li>Customize</li>
-				<li>Info</li>
-				<li>Manage</li>
-				<li>Population</li>
-				<li>Animals</li>
-				<li>Tamed</li>
-				<li>Order</li>
-				<li>Equipment</li>
-				<li>World</li>
-				<li>View planet</li>
-			</values>
-		</buttonNames>
-		<buttonIcons>
-			<keys>
-				<li>Group_1</li>
-				<li>Group_2</li>
-				<li>Group_3</li>
-				<li>Group_4</li>
-				<li>Group_5</li>
-				<li>Group_6</li>
-				<li>Group_7</li>
-				<li>Group_8</li>
-				<li>World</li>
-			</keys>
-			<values>
-				<li>UIRethemedCore/Phosphor/wrench</li>
-				<li>JOP/PaintBrush</li>
-				<li>UIRethemedCore/Phosphor/magnifying-glass</li>
-				<li>UIRethemedCore/Phosphor/clipboard-text</li>
-				<li>UIRethemedCore/Phosphor/person</li>
-				<li>UIRethemedCore/Phosphor/cow</li>
-				<li>UIRethemedCore/Phosphor/megaphone</li>
-				<li>UI/Buttons/MainButtons/IconWorld</li>
-				<li>UIRethemedCore/Phosphor/eye</li>
-			</values>
-		</buttonIcons>
-		<buttonColours>
-			<keys />
-			<values />
-		</buttonColours>
-		<buttonStyles>
-			<keys />
-			<values />
-		</buttonStyles>
-		<barHeight>40</barHeight>
-		<fillBar>True</fillBar>
-		<openSettings>
-			<li>Bar</li>
-			<li>Readouts</li>
-			<li>Buttons</li>
-			<li>Style</li>
-		</openSettings>
-		<searchFavourites />
-		<searchFolded />
-	</ModSettings>
+  <ModSettings Class="UIRethemed.MainBar.UIRethemedMainBarSettings">
+    <barItemsVersion>1</barItemsVersion>
+    <vanillaItems>Temperature</vanillaItems>
+    <readoutIcons>True</readoutIcons>
+    <dateParts>Hour, Day, Quadrum, Year</dateParts>
+    <hiddenMenuEntries>
+      <li>ShowModUpdates_ModUpdates</li>
+    </hiddenMenuEntries>
+    <layout>
+      <nodes>
+        <li>
+          <key>DMMB_MainButtonsMenu</key>
+          <children />
+        </li>
+        <li>
+          <key>Architect</key>
+          <children />
+        </li>
+        <li>
+          <key>GunRecoil</key>
+          <children />
+        </li>
+        <li>
+          <key>Group_7</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>Work</key>
+              <children />
+            </li>
+            <li>
+              <key>Schedule</key>
+              <children />
+            </li>
+            <li>
+              <key>Assign</key>
+              <children />
+            </li>
+            <li>
+              <key>MintBillMenu</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>Group_4</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>PauseSettlementTab</key>
+              <children />
+            </li>
+            <li>
+              <key>MedicalTab</key>
+              <children />
+            </li>
+            <li>
+              <key>PE_Education</key>
+              <children />
+            </li>
+            <li>
+              <key>CL_ModuleCenter</key>
+              <children />
+            </li>
+            <li>
+              <key>SW_Warrants</key>
+              <children />
+            </li>
+            <li>
+              <key>CorpseTab_Corpses</key>
+              <children />
+            </li>
+            <li>
+              <key>AutoRituals</key>
+              <children />
+            </li>
+            <li>
+              <key>MintGearMenu</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>Group_6</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>Wildlife</key>
+              <children />
+            </li>
+            <li>
+              <key>Animals</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>Group_8</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>World</key>
+              <children />
+            </li>
+            <li>
+              <key>Quests</key>
+              <children />
+            </li>
+            <li>
+              <key>Factions</key>
+              <children />
+            </li>
+            <li>
+              <key>Ideos</key>
+              <children />
+            </li>
+            <li>
+              <key>WFS_TradeStock</key>
+              <children />
+            </li>
+            <li>
+              <key>OutpostManager</key>
+              <children />
+            </li>
+            <li>
+              <key>VFEE_Royalty</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>Research</key>
+          <children />
+        </li>
+        <li>
+          <key>Group_1</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>DrawIt_Tab</key>
+              <children />
+            </li>
+            <li>
+              <key>PhotoMode</key>
+              <children />
+            </li>
+            <li>
+              <key>ToDoListButton</key>
+              <children />
+            </li>
+            <li>
+              <key>DubsOptimizer</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>Group_3</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>History</key>
+              <children />
+            </li>
+            <li>
+              <key>UIRethemedNotifications_Calendar</key>
+              <children />
+            </li>
+            <li>
+              <key>KeyzReferenceTools_MainButton</key>
+              <children />
+            </li>
+            <li>
+              <key>MEV_EpidemiologyRecord</key>
+              <children />
+            </li>
+            <li>
+              <key>InMemoriam</key>
+              <children />
+            </li>
+            <li>
+              <key>GeneLedger</key>
+              <children />
+            </li>
+            <li>
+              <key>kNumbersOverviewTab</key>
+              <children />
+            </li>
+            <li>
+              <key>OmniTabButton</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>Group_5</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>UIRethemedRelationships_Relationships</key>
+              <children />
+            </li>
+            <li>
+              <key>FamilyTree</key>
+              <children />
+            </li>
+            <li>
+              <key>WQ_CharactersMenu</key>
+              <children />
+            </li>
+            <li>
+              <key>Patients</key>
+              <children />
+            </li>
+            <li>
+              <key>Guests</key>
+              <children />
+            </li>
+            <li>
+              <key>PS_Psycasters</key>
+              <children />
+            </li>
+            <li>
+              <key>Asimov_Automatons</key>
+              <children />
+            </li>
+            <li>
+              <key>VQE_Drones</key>
+              <children />
+            </li>
+            <li>
+              <key>Mechs</key>
+              <children />
+            </li>
+            <li>
+              <key>WVC_MechsWork</key>
+              <children />
+            </li>
+            <li>
+              <key>SM_MechWork</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>Group_2</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>HatHairControlSettings</key>
+              <children />
+            </li>
+            <li>
+              <key>NLFaceSelectTab</key>
+              <children />
+            </li>
+            <li>
+              <key>Rimblings_VoiceEditor</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>PaintShop</key>
+          <children />
+        </li>
+        <li>
+          <key>DMMB_PlaySettingsMenu</key>
+          <children />
+        </li>
+        <li>
+          <key>UIRethemedMainBar_Search</key>
+          <children />
+        </li>
+      </nodes>
+      <nextId>9</nextId>
+    </layout>
+    <hiddenButtons />
+    <buttonNames>
+      <keys>
+        <li>Group_1</li>
+        <li>Group_2</li>
+        <li>Group_3</li>
+        <li>Group_4</li>
+        <li>Group_5</li>
+        <li>Group_6</li>
+        <li>Animals</li>
+        <li>Group_7</li>
+        <li>MintGearMenu</li>
+        <li>Group_8</li>
+        <li>World</li>
+      </keys>
+      <values>
+        <li>Tools</li>
+        <li>Customize</li>
+        <li>Info</li>
+        <li>Manage</li>
+        <li>Population</li>
+        <li>Animals</li>
+        <li>Tamed</li>
+        <li>Order</li>
+        <li>Equipment</li>
+        <li>World</li>
+        <li>View planet</li>
+      </values>
+    </buttonNames>
+    <buttonIcons>
+      <keys>
+        <li>Group_1</li>
+        <li>Group_2</li>
+        <li>Group_3</li>
+        <li>Group_4</li>
+        <li>Group_5</li>
+        <li>Group_6</li>
+        <li>Group_7</li>
+        <li>Group_8</li>
+        <li>World</li>
+      </keys>
+      <values>
+        <li>UIRethemedCore/Phosphor/wrench</li>
+        <li>JOP/PaintBrush</li>
+        <li>UIRethemedCore/Phosphor/magnifying-glass</li>
+        <li>UIRethemedCore/Phosphor/clipboard-text</li>
+        <li>UIRethemedCore/Phosphor/person</li>
+        <li>UIRethemedCore/Phosphor/cow</li>
+        <li>UIRethemedCore/Phosphor/megaphone</li>
+        <li>UI/Buttons/MainButtons/IconWorld</li>
+        <li>UIRethemedCore/Phosphor/eye</li>
+      </values>
+    </buttonIcons>
+    <buttonColours>
+      <keys />
+      <values />
+    </buttonColours>
+    <buttonStyles>
+      <keys />
+      <values />
+    </buttonStyles>
+    <barHeight>40</barHeight>
+    <fillBar>True</fillBar>
+    <openSettings>
+      <li>Bar</li>
+      <li>Readouts</li>
+      <li>Buttons</li>
+      <li>Style</li>
+    </openSettings>
+    <searchFavourites />
+    <searchFolded />
+  </ModSettings>
 </SettingsBlock>

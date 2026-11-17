@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="UIRethemed.Notifications.UIRethemedNotificationsSettings">
-		<foldedSections />
-		<dueSoonKinds>
-			<keys />
-			<values />
-		</dueSoonKinds>
-		<calendarPicked />
-		<position>BottomRight</position>
-		<hiddenAlerts>
-			<keys />
-			<values />
-		</hiddenAlerts>
-		<openSettings>
-			<li>Parts</li>
-			<li>Position</li>
-		</openSettings>
-	</ModSettings>
+  <ModSettings Class="UIRethemed.Notifications.UIRethemedNotificationsSettings">
+    <foldedSections />
+    <dueSoonKinds>
+      <keys />
+      <values />
+    </dueSoonKinds>
+    <calendarPicked />
+    <position>BottomRight</position>
+    <hiddenAlerts>
+      <keys />
+      <values />
+    </hiddenAlerts>
+    <openSettings>
+      <li>Parts</li>
+      <li>Position</li>
+    </openSettings>
+  </ModSettings>
 </SettingsBlock>

@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="UIRethemed.Work.UIRethemedWorkSettings">
-		<filters>False</filters>
-		<templates>False</templates>
-		<sortBy>work:Hunting</sortBy>
-		<descending>True</descending>
-		<collapsed />
-		<templateList />
-		<columns />
-		<openSettings>
-			<li>Priorities</li>
-			<li>Panels</li>
-			<li>Colours</li>
-		</openSettings>
-	</ModSettings>
+  <ModSettings Class="UIRethemed.Work.UIRethemedWorkSettings">
+    <filters>False</filters>
+    <templates>False</templates>
+    <sortBy>work:Hunting</sortBy>
+    <descending>True</descending>
+    <collapsed />
+    <templateList />
+    <columns />
+    <openSettings>
+      <li>Priorities</li>
+      <li>Panels</li>
+      <li>Colours</li>
+    </openSettings>
+  </ModSettings>
 </SettingsBlock>
