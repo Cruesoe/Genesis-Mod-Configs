@@ -34,9 +34,9 @@
     </WheelGridSlots>
     <DesignatorBarList IsNull="True" />
     <pinnedArchitectTabs />
-    <ResourceReadout />
+    <ResourceReadout></ResourceReadout>
     <WheelDefs>
-      <li>RimWorld.Designator_Haul</li>
+      <li>RimWorld.Designator_AreaAllowedClear</li>
       <li>RimWorld.Designator_PlantsHarvestWood</li>
       <li>RimWorld.Designator_PlantsHarvest</li>
       <li>RimWorld.Designator_Slaughter</li>
@@ -51,6 +51,7 @@
       <li>RimWorld.Designator_AreaHomeClear</li>
       <li>RimWorld.Designator_AreaAllowedExpand</li>
       <li>RimWorld.Designator_AreaAllowedClear</li>
+      <li>KeyzAllowUtilities.Designator_Floors</li>
     </WheelDefs>
     <FBenchTemplates />
   </ModSettings>

@@ -1,25 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="PlanningExtended.Settings.PlanningSettings">
-		<startupPlanVisibility>Invisible</startupPlanVisibility>
-		<lastLoadedPlans />
-		<planDesignationSettings>
-			<keys>
-				<li>PlanWall</li>
-				<li>PlanFloors</li>
-				<li>PlanDoors</li>
-				<li>PlanObjects</li>
-			</keys>
-			<values>
-				<li>
-					<color>Structure_Scarlet</color>
-				</li>
-				<li>
-					<color>Structure_White</color>
-				</li>
-				<li />
-				<li />
-			</values>
-		</planDesignationSettings>
-	</ModSettings>
+  <ModSettings Class="PlanningExtended.Settings.PlanningSettings">
+    <startupPlanVisibility>Invisible</startupPlanVisibility>
+    <lastLoadedPlans />
+    <planDesignationSettings>
+      <keys>
+        <li>PlanWall</li>
+        <li>PlanFloors</li>
+        <li>PlanDoors</li>
+        <li>PlanObjects</li>
+      </keys>
+      <values>
+        <li>
+          <isVisible>False</isVisible>
+        </li>
+        <li>
+          <isVisible>False</isVisible>
+        </li>
+        <li>
+          <isVisible>False</isVisible>
+        </li>
+        <li>
+          <isVisible>False</isVisible>
+        </li>
+      </values>
+    </planDesignationSettings>
+  </ModSettings>
 </SettingsBlock>

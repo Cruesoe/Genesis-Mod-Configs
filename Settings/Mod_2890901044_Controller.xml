@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
   <ModSettings Class="CombatExtended.Settings">
+    <genericAmmo>True</genericAmmo>
+    <ShowTutorialPopup>False</ShowTutorialPopup>
     <fasterRepeatShots>True</fasterRepeatShots>
     <enableCIWS>False</enableCIWS>
-    <genericAmmo>True</genericAmmo>
   </ModSettings>
 </SettingsBlock>
