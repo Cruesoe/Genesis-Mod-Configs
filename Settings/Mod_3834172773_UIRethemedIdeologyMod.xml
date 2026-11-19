@@ -3,5 +3,6 @@
   <ModSettings Class="UIRethemed.Ideology.UIRethemedIdeologySettings">
     <listFolded />
     <ideoWindows>False</ideoWindows>
+    <fitWidth>True</fitWidth>
   </ModSettings>
 </SettingsBlock>

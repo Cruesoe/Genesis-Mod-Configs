@@ -2,18 +2,37 @@
 <SettingsBlock>
   <ModSettings Class="UIRethemed.Notifications.UIRethemedNotificationsSettings">
     <foldedSections />
+    <headingSize>Dynamic</headingSize>
+    <conditionLine>TimeLeft</conditionLine>
     <dueSoonKinds>
-      <keys />
-      <values />
+      <keys>
+        <li>UIRethemedNotifications_Ships</li>
+      </keys>
+      <values>
+        <li>False</li>
+      </values>
     </dueSoonKinds>
+    <movedToCore>True</movedToCore>
+    <fitWidth>True</fitWidth>
+    <fitHeight>True</fitHeight>
     <calendarPicked />
     <position>BottomRight</position>
+    <sectionOrder>
+      <li>Letters</li>
+      <li>Alerts</li>
+      <li>Events</li>
+    </sectionOrder>
     <hiddenAlerts>
-      <keys />
-      <values />
+      <keys>
+        <li>RimWorld.Alert_NeedResearchBench</li>
+        <li>KeyzAllowUtilities.Alert_NoStorage</li>
+      </keys>
+      <values>
+        <li>Need research bench</li>
+        <li>Items with no storage (97)</li>
+      </values>
     </hiddenAlerts>
     <openSettings>
-      <li>Parts</li>
       <li>Position</li>
     </openSettings>
   </ModSettings>

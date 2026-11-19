@@ -25,8 +25,14 @@
     </hiddenNeeds>
     <hideDrugNeeds>True</hideDrugNeeds>
     <kindWidths>
-      <keys />
-      <values />
+      <keys>
+        <li>GrowingZone</li>
+        <li>Person</li>
+      </keys>
+      <values>
+        <li>0.699999988</li>
+        <li>0.800000012</li>
+      </values>
     </kindWidths>
     <kindHeights>
       <keys />
@@ -36,6 +42,8 @@
     <cardLayouts>
       <keys>
         <li>Person</li>
+        <li>GrowingZone</li>
+        <li>Plant</li>
       </keys>
       <values>
         <li>
@@ -107,14 +115,96 @@
             </li>
           </rows>
         </li>
+        <li>
+          <rows>
+            <li>
+              <cells>
+                <li>
+                  <block>ZoneCrop</block>
+                  <width>2</width>
+                </li>
+                <li>
+                  <block>ZoneSize</block>
+                </li>
+              </cells>
+            </li>
+            <li>
+              <cells>
+                <li>
+                  <block>ZonePlanted</block>
+                </li>
+                <li>
+                  <block>ZoneGrowth</block>
+                </li>
+                <li>
+                  <block>ZoneMature</block>
+                </li>
+              </cells>
+            </li>
+            <li>
+              <cells>
+                <li>
+                  <block>ZoneFertility</block>
+                </li>
+                <li>
+                  <block>GrowingSeason</block>
+                  <width>2</width>
+                </li>
+              </cells>
+            </li>
+          </rows>
+        </li>
+        <li>
+          <rows>
+            <li>
+              <cells>
+                <li>
+                  <block>ThingCategory</block>
+                </li>
+                <li>
+                  <block>ThingStuff</block>
+                </li>
+                <li>
+                  <block>ThingQuality</block>
+                </li>
+              </cells>
+            </li>
+            <li>
+              <cells>
+                <li>
+                  <block>PlantGrowth</block>
+                  <width>2</width>
+                </li>
+                <li>
+                  <block>PlantLifespan</block>
+                </li>
+              </cells>
+            </li>
+            <li>
+              <cells>
+                <li>
+                  <block>PlantYield</block>
+                </li>
+                <li>
+                  <block>HitPoints</block>
+                </li>
+                <li>
+                  <block>PlantState</block>
+                </li>
+              </cells>
+            </li>
+          </rows>
+        </li>
       </values>
     </cardLayouts>
     <offKinds />
     <layoutVersion>2</layoutVersion>
     <openSettings>
-      <li>Parts</li>
-      <li>Needs</li>
       <li>Pawns</li>
+      <li>Card</li>
+      <li>Needs</li>
+      <li>Style</li>
     </openSettings>
+    <tabOrder />
   </ModSettings>
 </SettingsBlock>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="UIRethemed.Factions.UIRethemedFactionsSettings">
+    <openSettings>
+      <li>Window</li>
+      <li>Graph</li>
+    </openSettings>
+    <fitWidth>True</fitWidth>
+    <fitHeight>True</fitHeight>
+  </ModSettings>
+</SettingsBlock>

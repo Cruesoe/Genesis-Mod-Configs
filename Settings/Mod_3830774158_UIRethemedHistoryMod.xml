@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="UIRethemed.History.UIRethemedHistorySettings">
+    <openSettings>
+      <li>Graphs</li>
+    </openSettings>
+    <movedToCore>True</movedToCore>
+    <foldedGroups />
+  </ModSettings>
+</SettingsBlock>

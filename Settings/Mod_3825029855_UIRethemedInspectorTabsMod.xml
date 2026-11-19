@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="UIRethemed.InspectorTabs.UIRethemedInspectorTabsSettings">
+    <foldedHealthParts />
+    <hiddenNameplateTags />
+    <tabWidths>
+      <keys />
+      <values />
+    </tabWidths>
+    <tabHeights>
+      <keys />
+      <values />
+    </tabHeights>
+    <hiddenColumns />
+    <columnsUnder>
+      <keys />
+      <values />
+    </columnsUnder>
+    <columnWidths>
+      <keys />
+      <values />
+    </columnWidths>
+    <hiddenLayers />
+    <openSettings>
+      <li>Tabs</li>
+      <li>Size</li>
+      <li>Health</li>
+    </openSettings>
+  </ModSettings>
+</SettingsBlock>

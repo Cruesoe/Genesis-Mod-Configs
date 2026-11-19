@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="UIRethemed.Core.UIRethemedCoreSettings">
+    <patternDef>UIRethemedCore_Honeycomb</patternDef>
+    <openSettings>
+      <li>Pattern</li>
+      <li>Style</li>
+    </openSettings>
+    <colors>
+      <keys />
+      <values />
+    </colors>
+    <modColors />
+  </ModSettings>
+</SettingsBlock>

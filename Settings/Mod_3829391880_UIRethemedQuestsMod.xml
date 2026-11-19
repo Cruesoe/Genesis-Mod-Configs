@@ -6,7 +6,9 @@
       <li>Window</li>
       <li>Style</li>
     </openSettings>
+    <fitWidth>True</fitWidth>
     <widthScale>0.800000012</widthScale>
+    <fitHeight>True</fitHeight>
     <heightScale>0.800000012</heightScale>
     <listShare>42</listShare>
   </ModSettings>

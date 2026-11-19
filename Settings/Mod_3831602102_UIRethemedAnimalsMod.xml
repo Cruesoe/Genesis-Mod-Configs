@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
   <ModSettings Class="UIRethemed.Animals.UIRethemedAnimalsSettings">
-    <widthScale>1.27999997</widthScale>
-    <heightScale>0.800000012</heightScale>
     <filters>False</filters>
     <sortBy>LabelWithIcon</sortBy>
     <descending>True</descending>
