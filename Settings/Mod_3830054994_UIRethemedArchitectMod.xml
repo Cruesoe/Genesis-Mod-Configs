@@ -855,6 +855,8 @@
       <li>type:RimWorld.Designator_AreaHomeExpand</li>
       <li>type:RimWorld.Designator_AreaHomeClear</li>
       <li>type:RimWorld.Designator_SmoothSurface</li>
+      <li>type:KeyzAllowUtilities.Designator_Floors</li>
+      <li>type:RimWorld.Designator_Mine</li>
     </favourites>
     <hiddenItems />
     <wrapped />
