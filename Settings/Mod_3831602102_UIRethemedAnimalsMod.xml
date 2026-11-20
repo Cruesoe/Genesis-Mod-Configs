@@ -4,7 +4,9 @@
     <filters>False</filters>
     <sortBy>LabelWithIcon</sortBy>
     <descending>True</descending>
-    <collapsed />
+    <collapsed>
+      <li>kind:Donkey</li>
+    </collapsed>
     <columns />
     <openSettings>
       <li>Parts</li>
