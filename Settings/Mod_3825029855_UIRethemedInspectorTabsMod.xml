@@ -1,7 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
   <ModSettings Class="UIRethemed.InspectorTabs.UIRethemedInspectorTabsSettings">
-    <foldedHealthParts />
+    <foldedHealthParts>
+      <li>WholeBody</li>
+      <li>Clavicle|right clavicle</li>
+      <li>Torso|</li>
+      <li>Shoulder|right shoulder</li>
+      <li>Ribcage|</li>
+      <li>Arm|left arm</li>
+      <li>Arm|right arm</li>
+      <li>Liver|</li>
+      <li>Kidney|left kidney</li>
+      <li>Spine|</li>
+      <li>Radius|left radius</li>
+      <li>Leg|left leg</li>
+      <li>Femur|left femur</li>
+    </foldedHealthParts>
     <hiddenNameplateTags />
     <tabWidths>
       <keys />

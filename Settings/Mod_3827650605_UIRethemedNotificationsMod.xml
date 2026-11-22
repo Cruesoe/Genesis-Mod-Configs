@@ -33,7 +33,9 @@
       </values>
     </hiddenAlerts>
     <openSettings>
+      <li>Parts</li>
       <li>Position</li>
+      <li>Style</li>
     </openSettings>
   </ModSettings>
 </SettingsBlock>

@@ -3,6 +3,7 @@
   <ModSettings Class="UIRethemed.MainBar.UIRethemedMainBarSettings">
     <groupsOnHover>True</groupsOnHover>
     <hoverToEdges>True</hoverToEdges>
+    <cornerPanels />
     <barItems>Date, Temperature, PlaySettings, Wind</barItems>
     <barItemsVersion>1</barItemsVersion>
     <readoutIcons>True</readoutIcons>
@@ -71,6 +72,14 @@
             </li>
             <li>
               <key>WQ_CharactersMenu</key>
+              <children />
+            </li>
+            <li>
+              <key>ColonistSummary_Summary</key>
+              <children />
+            </li>
+            <li>
+              <key>ColonySummary_Summary</key>
               <children />
             </li>
           </children>
@@ -165,10 +174,14 @@
       <keys>
         <li>Group_5</li>
         <li>Group_6</li>
+        <li>ColonySummary_Summary</li>
+        <li>ColonistSummary_Summary</li>
       </keys>
       <values>
         <li>UIRethemedCore/Phosphor/globe-hemisphere-west</li>
         <li>UIRethemedRelationships/MainButtons/users-three</li>
+        <li>UIRethemedCore/Phosphor/table</li>
+        <li>UIRethemedCore/Phosphor/table</li>
       </values>
     </buttonIcons>
     <buttonColours>
