@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-  <ModSettings Class="ColonyAlert.AlertSettings">
-    <work>False</work>
-    <reading>False</reading>
-    <indicator>Notification</indicator>
-    <message>False</message>
-  </ModSettings>
+	<ModSettings Class="ColonyAlert.AlertSettings">
+		<work>False</work>
+		<reading>False</reading>
+		<borderWidth>40</borderWidth>
+		<borderStyle>Glow</borderStyle>
+		<indicator>Notification</indicator>
+		<message>False</message>
+	</ModSettings>
 </SettingsBlock>

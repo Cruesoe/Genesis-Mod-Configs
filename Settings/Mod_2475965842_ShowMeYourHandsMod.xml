@@ -1,0 +1,3159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ShowMeYourHands.ShowMeYourHandsModSettings">
+		<ManualMainHandPositions>
+			<keys />
+			<values />
+		</ManualMainHandPositions>
+		<ManualOffHandPositions>
+			<keys />
+			<values />
+		</ManualOffHandPositions>
+		<ManualMainHandRotations>
+			<keys />
+			<values />
+		</ManualMainHandRotations>
+		<GeneratedHandPositions>
+			<keys>
+				<li>APM_Weapon_DominusMechlance</li>
+				<li>APM_Weapon_DominusApexMechlance</li>
+				<li>APM_Weapon_CelerusVoltana</li>
+				<li>APM_Weapon_CelerusApexVoltana</li>
+				<li>APM_Weapon_TerminusExoblade</li>
+				<li>APM_Weapon_TerminusApexExoblade</li>
+				<li>APM_Gun_Conqueror_AR</li>
+				<li>APM_Gun_Conqueror_DMR</li>
+				<li>APM_Gun_Conqueror_SMG</li>
+				<li>APM_Weapon_DuelistsPsySpear</li>
+				<li>APM_Gun_EMP_Impactor</li>
+				<li>APM_Gazer_Laser</li>
+				<li>APM_Haze_BeamGun</li>
+				<li>APM_Gun_JavelinRocketLauncher</li>
+				<li>APM_Weapon_MechWhip</li>
+				<li>APM_Gun_Maul</li>
+				<li>APM_Weapon_PlasmaWhip</li>
+				<li>APM_Gun_Pulse_Shotgun</li>
+				<li>APM_Ravager_Artillery</li>
+				<li>APM_Gun_Satellite</li>
+				<li>APM_Weapon_SeveringBlade</li>
+				<li>APM_Siren_ChargeEmitter</li>
+				<li>APM_Weapon_Skipblade</li>
+				<li>APM_Gun_Vassal_SwordRifle</li>
+				<li>APM_Solus</li>
+				<li>DV_MeleeWeapon_ArcWrench</li>
+				<li>Gun_HunterMechRifle</li>
+				<li>MeleeWeapon_HydraulicClaw</li>
+				<li>Gun_EMPCaster</li>
+				<li>VBE_Cider</li>
+				<li>VFEI_TurretArmoredShuttle</li>
+				<li>VFEE_Gun_StrikerTurret</li>
+				<li>VFEM2_Gun_ArbalestTurret</li>
+				<li>VFEM2_Gun_ArquebusTurret</li>
+				<li>VFEM2_MeleeWeapon_HeavyMace</li>
+				<li>VFEM2_MeleeWeapon_DaneAxe</li>
+				<li>VFEM2_MeleeWeapon_Claymore</li>
+				<li>VFEM2_MeleeWeapon_Halberd</li>
+				<li>VFEM2_MeleeWeapon_Standard</li>
+				<li>VFEM2_MeleeWeapon_Pike</li>
+				<li>VFEM2_MeleeWeapon_Shortsword</li>
+				<li>VFEM2_MeleeWeapon_Flail</li>
+				<li>VFEM2_ThrowingAxe</li>
+				<li>VFEM2_Gun_Arquebus</li>
+				<li>VFEM2_Gun_HandCannon</li>
+				<li>VFEM2_Arbalest</li>
+				<li>VFEM2_Warbow</li>
+				<li>VFEM2_Gun_Musket</li>
+				<li>VFEM2_Gun_Flintlock</li>
+				<li>Gun_GatlingGun</li>
+				<li>VFET_Chunk</li>
+				<li>VFET_Stake</li>
+				<li>VFET_Throwspikes</li>
+				<li>VFES_ComplexGraserCannon_Top</li>
+				<li>VFES_ComplexHeavyIncinerator_Top</li>
+				<li>VFES_Gun_PointDefense</li>
+				<li>Gun_AutomatedMortar</li>
+				<li>VFES_Artillery_ArtilleryGun</li>
+				<li>VFES_Gun_ConcealedTurret</li>
+				<li>VFES_Artillery_Catapult</li>
+				<li>VFES_Gun_BallistaTurret</li>
+				<li>VFES_Gun_MilitaryTurret</li>
+				<li>VFES_Gun_ArmoredTurret</li>
+				<li>VFES_Gun_Searchlight</li>
+				<li>VFES_Gun_FlameTurret</li>
+				<li>VFES_Gun_ShotgunTurret</li>
+				<li>VFES_TurretDoubleAutocannon_Top</li>
+				<li>VFES_ComplexHmg_Top</li>
+				<li>VFES_ComplexMinigun_Top</li>
+				<li>VFES_TurretMinigun_Top</li>
+				<li>VFES_Gun_ChargeTurret</li>
+				<li>VFES_Gun_RailgunTurret</li>
+				<li>Gun_TeslaBlaster</li>
+				<li>VFES_ComplexCharge_Top</li>
+				<li>VGE_Gun_PointDefense</li>
+				<li>VGE_Gun_GaussGun</li>
+				<li>VGE_Gun_JavelinPod</li>
+				<li>VGE_Gun_AnticraftCaster</li>
+				<li>VGE_Gun_MassDriver</li>
+				<li>VGE_Gun_HeavyChargeAnnihilator</li>
+				<li>VGE_MassLance</li>
+				<li>VGE_RocketswarmPod</li>
+				<li>VQEA_MeleeWeapon_Scalpel</li>
+				<li>VQE_AncientShieldedTurret_Gun</li>
+				<li>VQE_AncientSpacerAutocannon_Gun</li>
+				<li>VQE_MeleeWeapon_Cryptoaxe</li>
+				<li>VQE_Weapon_Cryptobolter</li>
+				<li>VQED_AncientMilitaryTurret_Gun</li>
+				<li>VQED_Gun_Autopistol_Ancient</li>
+				<li>VQED_Gun_MachinePistol_Ancient</li>
+				<li>VQED_Gun_PumpShotgun_Ancient</li>
+				<li>VQED_Gun_LMG_Ancient</li>
+				<li>VQE_DisruptorFlare</li>
+				<li>VQE_ImmobilizedTurret_Gun</li>
+				<li>VQE_Gun_Stubgun</li>
+				<li>VQE_Gun_DroneTurret</li>
+				<li>VQE_Gun_Rattlegun</li>
+				<li>VQE_Gun_Lance</li>
+				<li>VQE_Gun_StingrayCannon</li>
+				<li>VWE_Bow_Crossbow_Unique</li>
+				<li>VWE_Bow_Long_Unique</li>
+				<li>VWE_Bow_Compound_Unique</li>
+				<li>VWE_Gun_HandCannon_Unique</li>
+				<li>VWE_Gun_CombatHandgun_Unique</li>
+				<li>VWE_Gun_SawedOffShotgun_Unique</li>
+				<li>VWE_Gun_SemiAutomaticRifle_Unique</li>
+				<li>VWE_Gun_LeverActionRifle_Unique</li>
+				<li>VWE_Gun_TrenchGun_Unique</li>
+				<li>VWE_Gun_LightSMG_Unique</li>
+				<li>VWE_Gun_SMG_Unique</li>
+				<li>VWE_Gun_HMG_Unique</li>
+				<li>VWE_Gun_ServiceRifle_Unique</li>
+				<li>VWE_Gun_BattleRifle_Unique</li>
+				<li>VWE_Gun_Carbine_Unique</li>
+				<li>VWE_Gun_MarksmanRifle_Unique</li>
+				<li>VWE_Gun_AntiMaterialRifle_Unique</li>
+				<li>VWE_Gun_ChargePistol_Unique</li>
+				<li>VWE_Gun_ChargeShotgun_Unique</li>
+				<li>VWE_Gun_ChargeSMG_Unique</li>
+				<li>VWE_Gun_ChargeLMG_Unique</li>
+				<li>VWE_Gun_ChargeMinigun_Unique</li>
+				<li>VWE_Gun_ChargeSniperRifle_Unique</li>
+				<li>VWE_TrenchGun</li>
+				<li>AM_Gun_SoulDrainTurret</li>
+				<li>AM_Gun_SniperTurret</li>
+				<li>AM_Gun_HellsphereOrbital</li>
+				<li>AM_Gun_CoilLance</li>
+				<li>AM_Gun_SuperHeavyChargeBlaster</li>
+				<li>AM_Gun_AcidSpewer</li>
+				<li>AM_Gun_HeavyLaser</li>
+				<li>AM_SiegemelterTurret</li>
+				<li>AM_TeslaGun</li>
+				<li>AM_StarfireTurret</li>
+				<li>AM_Gun_TacticalShotgun</li>
+				<li>AM_BeamGraserCannon</li>
+				<li>AM_MechanoidGunRotaryNeedle</li>
+				<li>AM_Gun_MiniNeedle</li>
+				<li>AM_MechanoidMortar</li>
+				<li>AM_Flamethrower</li>
+				<li>AM_Gun_GoliathChargeBlaster</li>
+				<li>AM_Gun_GoliathNeedle</li>
+				<li>AM_CryogenicGun</li>
+				<li>AM_SiegebreakerTurret</li>
+				<li>AM_DemolisherChargeBase</li>
+				<li>VBE_Lemonade</li>
+				<li>VFED_Gun_Kontarion</li>
+				<li>VFED_Gun_Palintone</li>
+				<li>VFED_Gun_Onager</li>
+				<li>VFED_Gun_ChargeCycler</li>
+				<li>VFED_Gun_Fletchling</li>
+				<li>VFEP_GauntletChargeCanon</li>
+				<li>VFEP_Artillery_FieldGun</li>
+				<li>VFEP_Artillery_Cannon</li>
+				<li>VFEP_Rum</li>
+				<li>VFEP_WarcasketMeleeWeapon_PlasmaSword</li>
+				<li>VFEPGun_MiniBlaster</li>
+				<li>VGE_Gun_GravshipMinigun</li>
+				<li>VGE_Gun_GravshipAutocannon</li>
+				<li>VGE_Gun_GravshipUraniumSlug</li>
+				<li>VGE_Gun_GaussHowitzer</li>
+				<li>VGE_Gun_JavelinLauncher</li>
+				<li>VGE_Gun_AnticraftEmitter</li>
+				<li>VGE_Gun_EnemyGaussBombard</li>
+				<li>VGE_Gun_EnemyGaussGun</li>
+				<li>VGE_Gun_EnemyJavelinPod</li>
+				<li>VGE_Gun_EnemyAnticraftCaster</li>
+				<li>VGE_Gun_EnemyAnticraftBeam</li>
+				<li>VGE_Gun_EnemyPointDefense</li>
+				<li>VGE_Gun_EnemyGaussCannon</li>
+				<li>VGE_Gun_DefenderTurret</li>
+				<li>VGE_Gun_EnemyGravshipMinigun</li>
+				<li>VGE_Gun_EnemyGravshipAutocannon</li>
+				<li>VGE_Gun_EnemyGravshipUraniumSlug</li>
+				<li>VGE_Gun_EnemyGaussHowitzer</li>
+				<li>VGE_Gun_EnemyJavelinLauncher</li>
+				<li>VGE_Gun_MechanoidChargeBattery</li>
+				<li>VGE_Gun_MechanoidInfernoArtillery</li>
+				<li>VGE_GiantWormspitter_Gun</li>
+				<li>VGE_Gun_AstrofireLauncher</li>
+				<li>Dryad_SuperThornlauncher_Gun</li>
+				<li>Dryad_Thorncaster_Gun</li>
+				<li>Dryad_GiantThorncaster_Gun</li>
+				<li>Dryad_Thornlauncher_Gun</li>
+				<li>MBTCentipedeGunnerMinigun</li>
+				<li>PE_Gun_AssaultRifleTraining</li>
+				<li>PE_PracticeShortBow</li>
+				<li>PE_Gun_SpacerTraining</li>
+				<li>VFEP_GauntletChargeCanon_CE</li>
+				<li>VFEI_TurretArmoredShuttle_CE</li>
+				<li>CE_Weapon_GrenadeConcussion</li>
+				<li>CE_Weapon_GrenadeFlashbang</li>
+				<li>CE_Weapon_GrenadeStickBomb</li>
+				<li>CE_Weapon_GrenadeSmoke</li>
+				<li>CE_Weapon_GrenadeFirefoam</li>
+				<li>CE_ThermalBoltProjector</li>
+				<li>CE_MechanoidMinigun</li>
+				<li>Gun_BlasterTurret</li>
+				<li>Gun_HeavyTurret</li>
+				<li>Gun_MediumTurret</li>
+				<li>Gun_KPV</li>
+				<li>Gun_FlakTurret</li>
+				<li>Gun_AGSThirty</li>
+				<li>SEX_RocketLauncherGun</li>
+				<li>SEX_MountedFlamethrowerGun</li>
+				<li>SEX_MountedGunGun</li>
+				<li>SEX_GrenadeLauncherGun</li>
+				<li>SEX_ShotgunTurretGun</li>
+				<li>SEX_MiniTurretGun</li>
+				<li>SEX_FlamethrowerGun</li>
+				<li>Gun_M240B</li>
+				<li>CE_Gun_Howitzer</li>
+				<li>CE_Gun_SigMCX</li>
+				<li>CE_Gun_AKMSU</li>
+				<li>CE_Gun_MiniFourteen</li>
+				<li>CE_Gun_SKS</li>
+				<li>SEX_EuterpeCIWSGun</li>
+				<li>CE_Melee_PoweredMace</li>
+				<li>CE_Melee_PoweredShortsword</li>
+				<li>CE_Melee_PoweredMaul</li>
+				<li>SEX_PackedBelts</li>
+				<li>SEX_GrenadierChargedBattleRifle</li>
+				<li>SEX_GrenadierAutoChargeShotgun</li>
+				<li>SEX_GrenadierAutoShotgun</li>
+				<li>SEX_ScatterpupChargeAntiMaterialRifle</li>
+				<li>SEX_AutoShotgun</li>
+				<li>SEX_PistolCarbine</li>
+				<li>SEX_MissilePod</li>
+				<li>SEX_GrenadeLauncher</li>
+				<li>SEX_GrenadeSniperRifle</li>
+				<li>SEX_MechMissilePod</li>
+				<li>SEX_MechGrenadeLauncher</li>
+				<li>SEX_AutoChargeShotgun</li>
+				<li>SEX_ChargePistolCarbine</li>
+				<li>SEX_ChargedBattleRifle</li>
+				<li>SEX_Blunderbuss</li>
+				<li>SEX_HandMortar</li>
+				<li>SEX_WallGun</li>
+				<li>USAC_HeavyMachineGunMounted</li>
+				<li>USAC_Gun_CobraAC</li>
+				<li>USAC_Gun_ViperDMR</li>
+				<li>USAC_Gun_BushmasterAC</li>
+				<li>USAC_Gun_TorchwoodRR</li>
+				<li>USAC_Gun_AssaultRifle</li>
+				<li>USAC_Gun_LightMachinegun</li>
+				<li>USAC_Gun_MarksmanRifle</li>
+				<li>USAC_Gun_BattleRifle</li>
+				<li>USAC_Gun_OSW</li>
+				<li>USAC_Gun_ACSW</li>
+				<li>USAC_Gun_OpticInterceptor</li>
+				<li>DMS_Gun_LightMachineGun</li>
+				<li>DMS_LightMachineGun</li>
+				<li>DMS_Gun_AutomaticGrenadeLauncher</li>
+				<li>DMS_AutomaticGrenadeLauncher</li>
+				<li>DMS_Gun_HeavyMachineGun</li>
+				<li>DMS_HeavyMachineGun</li>
+				<li>DMS_Gun_GateKeeper</li>
+				<li>DMS_Gun_MK44_Navy</li>
+				<li>DMS_Gun_Kord</li>
+				<li>DMS_Gun_Vasilek</li>
+				<li>DMS_Gun_Dawnblade</li>
+				<li>DMS_Weapon_GrenadeSubsonic</li>
+				<li>DMS_KnuckledusterRevolver</li>
+				<li>DMS_MiniMachineGun</li>
+				<li>DMS_SurvivalRifle</li>
+				<li>DMS_Revolver</li>
+				<li>DMS_RiotShotgun</li>
+				<li>DMS_ElephantGun</li>
+				<li>DMS_BullHound_ShotgunMounted</li>
+				<li>DMS_AssaultShotgun</li>
+				<li>DMS_AssaultRifle</li>
+				<li>DMS_SemiAutoRifle</li>
+				<li>DMS_BattleRifle</li>
+				<li>DMS_MarksmanRifle</li>
+				<li>DMS_AntiMaterialRifle</li>
+				<li>DMS_SniperGrenadeLauncher</li>
+				<li>DMS_M214Gatlinggun</li>
+				<li>DMS_GAU19Gatlinggun</li>
+				<li>DMS_GAU4Gatlinggun_Hold</li>
+				<li>DMS_GAU4Gatlinggun</li>
+				<li>DMS_GAU8Gatlinggun</li>
+				<li>DMS_SniperCannon</li>
+				<li>DMS_Autocannon</li>
+				<li>DMS_Gun_Recoilless</li>
+				<li>DMS_Gun_MK44_Autocannon</li>
+				<li>DMS_Gun_2A38M</li>
+				<li>DMS_Gun_DragoonRifle</li>
+				<li>DMS_Gun_DragoonGrenade</li>
+				<li>DMS_Gun_DawnbladeM</li>
+				<li>DMS_TacticalPistol</li>
+				<li>DMS_PDW</li>
+				<li>DMS_AssaultPiercer</li>
+				<li>DMS_Flameblaster</li>
+				<li>DMS_ShotgunGunMounted</li>
+				<li>DMS_SubMachineGunMounted</li>
+				<li>DMS_LightMachineGunMounted</li>
+				<li>DMS_HeavyMachineGunMounted</li>
+				<li>DMS_Gun_Kord_Vehicle</li>
+				<li>DMS_Gun_Vasilek_B</li>
+				<li>DMS_Gun_RecoillessLight</li>
+				<li>DMS_StunBaton</li>
+				<li>DMS_Machete</li>
+				<li>DMS_DoorBreaker</li>
+				<li>DMS_ZlobinRevolver</li>
+				<li>DMS_ZlobinRifle</li>
+				<li>DMS_VykhlopRifle</li>
+				<li>DMS_PKM</li>
+				<li>DMS_KS23K</li>
+				<li>DMS_YekaterinRifle</li>
+				<li>DMS_AtlantGrenadeLauncher</li>
+				<li>DMS_KordMachineGun</li>
+				<li>DMS_VladimirovMachineGun</li>
+				<li>DMS_AerialAutocannon</li>
+				<li>DMS_Gsh30Gatlinggun</li>
+				<li>DMS_Gun_JusticeGavel</li>
+				<li>DMS_Gun_MobileMortar</li>
+				<li>DMS_Gun_KordTurret</li>
+				<li>DMS_Gun_ECMSystem</li>
+				<li>DMS_Gun_Empero</li>
+				<li>DMSAC_Gun_StugnaATGM</li>
+				<li>DMSE_Gun_FieldAirDefense</li>
+				<li>DMSE_Gun_Millennium</li>
+				<li>DMSE_Gun_Empero</li>
+				<li>DMSE_Gun_Squall</li>
+				<li>DMSE_Gun_Vulcan_WingBack</li>
+				<li>DMSE_Gun_Dawnblade_Striker</li>
+				<li>DMSE_Gun_LaserDesignator</li>
+				<li>DMSE_Modular_AR</li>
+				<li>DMSE_Modular_C95BP_Pistol</li>
+				<li>DMSE_Modular_C95_Pistol</li>
+				<li>DMSE_Modular_LMG</li>
+				<li>DMSE_Modular_PDW</li>
+				<li>DMS_Dragoon_LMG</li>
+				<li>DMS_Dragoon_DMR</li>
+				<li>DMS_Dragoon_Shotgun</li>
+				<li>DMS_Dragoon_Axe</li>
+				<li>DMS_Dragoon_Sword</li>
+				<li>DMST_MagierBroom</li>
+				<li>DMS_Gun_BeamLaser</li>
+				<li>DMSSR_GMG_SGWC</li>
+				<li>DMSSR_AssaultBlaster_SGWC</li>
+				<li>DMSSR_AntiAutomatroid_Rifle_SGWC</li>
+				<li>DMSSR_HBSRifle_SGWC</li>
+				<li>DMSSR_Soliton_Beam</li>
+				<li>DMSSR_Soliton_Beam_Shotgun</li>
+				<li>DMSSR_Soliton_Beam_Heavy</li>
+				<li>DMSSR_ResentfulFlame_SGWC</li>
+				<li>DMSSR_PackHound</li>
+				<li>DMSSR_SCCS</li>
+				<li>DMSSR_CQB_Rifle_SGWC</li>
+				<li>DMSSR_Soliton_Beam_Light</li>
+				<li>DMS_GAU19Mounted</li>
+				<li>DMSSR_XAGSix</li>
+			</keys>
+			<values>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.135937512, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.180859387, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.155468762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.214062512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.112500012, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.173046887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.288281262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.173046887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.194531262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.278515637, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.298046887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>mortis.apexmechanoids</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639299073452607768</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>det.halffoot</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302571414998249</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>pal5k.huntermechanoid</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639269846857878526</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>pal5k.logisticsmechanoid</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639269847004720131</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>pal5k.scramblermechanoid</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639269846891812066</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vbrewe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858188443482</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0552083403, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.empire</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639296806972663628</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0281249881, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.empire</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639296806972663628</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.147656262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.112500012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.104687512, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.182812512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.medieval2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858047766465</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0632812381, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vanillafactionsexpanded.settlersmodule</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858205096416</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.tribals</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858076655409</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.tribals</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858076655409</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0812500119, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.tribals</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858076655409</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0734375119, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0281249881, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.206250012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0242187381, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.297395855, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.135937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.195833355, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0437499881, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0226562619, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0242187381, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0421875119, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0124999881, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0265625119, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.104687512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.178906262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0630208403, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.00703126192, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.154166684, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0317708552, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0929687619, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vfesecurity</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858230211700</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.271354169, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858009932565</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.268750012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858009932565</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858009932565</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.297395855, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858009932565</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.204947919, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858009932565</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0343750119, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.gravship</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858009932565</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858009932565</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.268750012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858009932565</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaquestsexpanded.ancients</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858006065274</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0554687381, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaquestsexpanded.cryptoforge</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858040958858</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0552083403, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaquestsexpanded.cryptoforge</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858040958858</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaquestsexpanded.cryptoforge</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858040958858</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.190625012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaquestsexpanded.cryptoforge</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858040958858</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0359374881, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaquestsexpanded.deadlife</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858037431501</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0265625119, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaquestsexpanded.deadlife</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858037431501</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.190625012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaquestsexpanded.deadlife</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858037431501</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaquestsexpanded.deadlife</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858037431501</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaquestsexpanded.deadlife</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858037431501</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.151562512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaquestsexpanded.deadlife</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858037431501</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0148437619, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaquestsexpanded.dronefactory</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275857983209823</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.151562512, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaquestsexpanded.dronefactory</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275857983209823</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.151562512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaquestsexpanded.dronefactory</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275857983209823</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaquestsexpanded.dronefactory</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275857983209823</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaquestsexpanded.dronefactory</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275857983209823</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaquestsexpanded.dronefactory</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275857983209823</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0124999881, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.143750012, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0343750119, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.151562512, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.214062512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0968750119, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.253125012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0890625119, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.128125012, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.253125012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.vwe</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858234650263</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.151562512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.245312512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.221875012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.229687512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.699999988, 0.300000012, 0)</MainHand>
+					<ModPackageId>sarg.alphamechs</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639297441376277316</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.vbrewecandt</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858185649307</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0734375119, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.deserters</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275763345489619</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.032812506, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.deserters</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275763345489619</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0078125, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.deserters</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275763345489619</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.143750012, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.deserters</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275763345489619</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.deserters</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275763345489619</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0242187381, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.pirates</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858162598502</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0187500119, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.pirates</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858162598502</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.132031262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>oskarpotocki.vfe.pirates</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858162598502</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.pirates</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858162598502</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.pirates</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858162598502</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0203124881, 0.300000012, 0)</MainHand>
+					<ModPackageId>oskarpotocki.vfe.pirates</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639275858162598502</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0671874881, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0463541448, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0541666448, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.193229169, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.235937506, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.258333355, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.297395855, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.174399048, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.271354169, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.193028867, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0203124881, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0671874881, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0359374881, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0411458313, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.193229169, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.234375015, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.234895855, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.177604169, 0.300000012, 0)</MainHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>vanillaexpanded.gravship2</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639282568300096487</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0890625119, 0.300000012, 0)</MainHand>
+					<ModPackageId>redmattis.dryads</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639274302358943944</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0539062619, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>redmattis.dryads</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639274302358943944</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0539062619, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>redmattis.dryads</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639274302358943944</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0890625119, 0.300000012, 0)</MainHand>
+					<ModPackageId>redmattis.dryads</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639274302358943944</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>pal5k.mechanitorbalancetweaks</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639269846947249414</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cruesoe.progressionlesseducation</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303779329789550</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0828124881, 0.300000012, 0)</MainHand>
+					<ModPackageId>cruesoe.progressionlesseducation</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303779329789550</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.229687512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cruesoe.progressionlesseducation</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303779329789550</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0242187381, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0552083403, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.190625012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.296093762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0124999881, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0500000119, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.00312501192, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.257031262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.106250018, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.135937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>rosalina.mating.press</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549186598473</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.150000006, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>rosalina.mating.press</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549186598473</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0539062619, 0.300000012, 0)</MainHand>
+					<ModPackageId>rosalina.mating.press</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549186598473</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.128125012, 0.300000012, 0)</MainHand>
+					<ModPackageId>rosalina.mating.press</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549186598473</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0578125119, 0.300000012, 0)</MainHand>
+					<ModPackageId>rosalina.mating.press</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549186598473</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0554687381, 0.300000012, 0)</MainHand>
+					<ModPackageId>rosalina.mating.press</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549186598473</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0968750119, 0.300000012, 0)</MainHand>
+					<ModPackageId>rosalina.mating.press</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549186598473</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0890625119, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextended</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303551489377765</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0382812619, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextendedguns</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549131029460</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextendedguns</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549131029460</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.253125012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextendedguns</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549131029460</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextendedguns</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549131029460</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.276562512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>ceteam.combatextendedguns</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303549131029460</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0402343869, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>yesimstillworkingonthemechwifemod.thisisjustasideproject</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672023908718</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextendedmelee</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672261930129</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextendedmelee</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672261930129</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>ceteam.combatextendedmelee</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672261930129</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>gun.crewserved.yeah</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672013328981</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.288281262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.216015637, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.216015637, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.268750012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.216015637, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.180859387, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.258984387, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.235546887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.243359387, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.278515637, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.235546887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.216015637, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.151562512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.229687512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>turkler.advanced.armaments</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672058851837</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>dontcareaboutcolors.blackorwhite.wecanbebrothers</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672048251938</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>dontcareaboutcolors.blackorwhite.wecanbebrothers</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672048251938</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.297395855, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>dontcareaboutcolors.blackorwhite.wecanbebrothers</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639303672048251938</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.00208333135, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.293164074, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.215039074, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.273632824, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.208203137, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.280468762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.272656262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.147656262, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.usac.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086555519474</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.286328137, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.202343762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.202343762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.288281262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.276562512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0633928627, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.159375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0285156369, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0276785791, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.133984387, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.221875012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0500000119, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.000781238079, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.223828137, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0246093869, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.00664061308, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0109375119, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.229687512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.217968762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.194531262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.219921887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.219921887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.229687512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.282421887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.108593762, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0832031369, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.165625006, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.133984387, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.294140637, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.298046887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.221875012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.212109387, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.186718762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.297395855, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.159375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0929687619, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0656250119, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.210156262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0222656131, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0734375119, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.206250012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.00273436308, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.00273436308, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0285156369, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0281249881, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.104687512, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.245312512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.core</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086676735593</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0476562381, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.188671887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.249218762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.253125012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.167187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.112500012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.257031262, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.251171887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.106640637, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.283398449, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.214062512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.068749994, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0265625119, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.106249988, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0119140744, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.296093762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.ancientcorps</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086700708884</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.233593762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0128906369, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.052343756, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.00312501192, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0200521052, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.133984387, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.143750012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.200390637, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0792968869, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(0.0242187381, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.260937512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0500000119, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.expedition</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086684682578</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.248437509, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.mobiledragoon</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086716547812</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.254427105, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.mobiledragoon</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086716547812</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.0910156369, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.mobiledragoon</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086716547812</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.mobiledragoon</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086716547812</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.25, 0.300000012, 0)</MainHand>
+					<ModPackageId>aoba.deadmanswitch.mobiledragoon</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086716547812</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.227734387, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>aoba.deadmanswitch.taktikmagier</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639302086665334348</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.166210949, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.266796887, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.249218762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.276562512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.198437512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.295117199, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.300000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.284375012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.292187512, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.175000012, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.186718762, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+				<li>
+					<MainHand>(-0.291210949, 0.300000012, -0.0500000007)</MainHand>
+					<SecHand>(0.200000003, -0.100000001, -0.0500000007)</SecHand>
+					<ModPackageId>cephalopod.deadmanswitch.synthriada</ModPackageId>
+					<AboutFileLastWriteTimeUtcTicks>639308772081403345</AboutFileLastWriteTimeUtcTicks>
+				</li>
+			</values>
+		</GeneratedHandPositions>
+		<ManualStyleHands>
+			<keys />
+			<values />
+		</ManualStyleHands>
+		<ManualOffHandRotations>
+			<keys />
+			<values />
+		</ManualOffHandRotations>
+		<ShowOnRace>
+			<keys>
+				<li>Mech_Agrihand</li>
+				<li>Alligator</li>
+				<li>Alpaca</li>
+				<li>AlphaThrumbo</li>
+				<li>Alphabeaver</li>
+				<li>Mech_Apocriton</li>
+				<li>Fox_Arctic</li>
+				<li>Wolf_Arctic</li>
+				<li>Armadillo</li>
+				<li>VDE_AwakenedDryad_Barkskin</li>
+				<li>VDE_AwakenedDryad_Berrymaker</li>
+				<li>VDE_AwakenedDryad_Carrier</li>
+				<li>VDE_AwakenedDryad_Clawer</li>
+				<li>VDE_AwakenedDryad_Gaubricmaker</li>
+				<li>VDE_AwakenedDryad_Medicinemaker</li>
+				<li>VDE_AwakenedDryad_Nectarmaker</li>
+				<li>VDE_AwakenedDryad_Spitter</li>
+				<li>VDE_AwakenedDryad_Stonedigger</li>
+				<li>VDE_AwakenedDryad_Woodmaker</li>
+				<li>Badger</li>
+				<li>Dryad_Barkskin</li>
+				<li>Dryad_Berrymaker</li>
+				<li>Bison</li>
+				<li>Bluebird</li>
+				<li>BogHound</li>
+				<li>Boomalope</li>
+				<li>Boomrat</li>
+				<li>Bulbfreak</li>
+				<li>Bullfrog</li>
+				<li>Capybara</li>
+				<li>Caribou</li>
+				<li>Dryad_Carrier</li>
+				<li>Cassowary</li>
+				<li>Cat</li>
+				<li>Mech_CentipedeBlaster</li>
+				<li>Mech_CentipedeBurner</li>
+				<li>Mech_CentipedeGunner</li>
+				<li>Mech_Centurion</li>
+				<li>Chicken</li>
+				<li>Chimera</li>
+				<li>Chinchilla</li>
+				<li>Dryad_Clawer</li>
+				<li>Mech_Cleansweeper</li>
+				<li>Cobra</li>
+				<li>ColossusToad</li>
+				<li>Mech_Constructoid</li>
+				<li>Cougar</li>
+				<li>Cow</li>
+				<li>Crow</li>
+				<li>Mech_Cyclops</li>
+				<li>Deer</li>
+				<li>Devourer</li>
+				<li>Mech_Diabolus</li>
+				<li>Donkey</li>
+				<li>Dreadmeld</li>
+				<li>Dromedary</li>
+				<li>Duck</li>
+				<li>Elephant</li>
+				<li>Elk</li>
+				<li>Emu</li>
+				<li>Mech_Fabricor</li>
+				<li>Fox_Fennec</li>
+				<li>Fingerspike</li>
+				<li>Flamingo</li>
+				<li>FleshmassNucleus</li>
+				<li>VDE_Dryad_Gaubricmaker</li>
+				<li>Dryad_Gaumaker</li>
+				<li>Gazelle</li>
+				<li>Goat</li>
+				<li>Goose</li>
+				<li>Gorehulk</li>
+				<li>Gorilla</li>
+				<li>Wolf_Great</li>
+				<li>Bear_Grizzly</li>
+				<li>GuineaPig</li>
+				<li>Hare</li>
+				<li>HermitCrab</li>
+				<li>Heron</li>
+				<li>Hippo</li>
+				<li>HiveQueen</li>
+				<li>Horse</li>
+				<li>Human</li>
+				<li>CreepJoiner</li>
+				<li>Drone_Hunter</li>
+				<li>Husky</li>
+				<li>Ibex</li>
+				<li>Iguana</li>
+				<li>Dryad_Basic</li>
+				<li>LabradorRetriever</li>
+				<li>Mech_Lancer</li>
+				<li>Larva</li>
+				<li>LavaSnail</li>
+				<li>Mech_Legionary</li>
+				<li>Mech_Lifter</li>
+				<li>Locust</li>
+				<li>Lynx</li>
+				<li>Macaw</li>
+				<li>Mastodon</li>
+				<li>Dryad_Medicinemaker</li>
+				<li>Megascarab</li>
+				<li>Megasloth</li>
+				<li>Megaspider</li>
+				<li>Megavole</li>
+				<li>Metalhorror</li>
+				<li>Mech_Militor</li>
+				<li>Mink</li>
+				<li>MonitorLizard</li>
+				<li>Monkey</li>
+				<li>Moose</li>
+				<li>Muffalo</li>
+				<li>Muskox</li>
+				<li>VDE_Dryad_Nectarmaker</li>
+				<li>Nociosphere</li>
+				<li>Noctol</li>
+				<li>Ostrich</li>
+				<li>Otter</li>
+				<li>Panda</li>
+				<li>Panther</li>
+				<li>Mech_Paramedic</li>
+				<li>Peacock</li>
+				<li>Penguin</li>
+				<li>Pig</li>
+				<li>Mech_Pikeman</li>
+				<li>Bear_Polar</li>
+				<li>Porcupine</li>
+				<li>PrairieDog</li>
+				<li>Quail</li>
+				<li>Raccoon</li>
+				<li>Rat</li>
+				<li>Fox_Red</li>
+				<li>Revenant</li>
+				<li>Rhinoceros</li>
+				<li>Cat_Scimitar</li>
+				<li>Mech_Scorcher</li>
+				<li>Mech_Scyther</li>
+				<li>SeaLion</li>
+				<li>SeaTurtle</li>
+				<li>Seal</li>
+				<li>Drone_Sentry</li>
+				<li>Sheep</li>
+				<li>Sightstealer</li>
+				<li>Snowhare</li>
+				<li>Sparrow</li>
+				<li>Spelopede</li>
+				<li>VFEP_Mech_Spidermine</li>
+				<li>VDE_Dryad_Spitter</li>
+				<li>Squirrel</li>
+				<li>StoneCrab</li>
+				<li>VDE_Dryad_Stonedigger</li>
+				<li>Swan</li>
+				<li>Mech_Termite</li>
+				<li>Mech_Tesseron</li>
+				<li>Thrumbo</li>
+				<li>Tiger</li>
+				<li>Wolf_Timber</li>
+				<li>Tortoise</li>
+				<li>Toughspike</li>
+				<li>Toxalope</li>
+				<li>Trispike</li>
+				<li>Mech_Tunneler</li>
+				<li>Turkey</li>
+				<li>Vulture</li>
+				<li>Walrus</li>
+				<li>Mech_Warqueen</li>
+				<li>Mech_WarUrchin</li>
+				<li>VFEP_Mech_Wardrone</li>
+				<li>Warg</li>
+				<li>Drone_Wasp</li>
+				<li>WasteRat</li>
+				<li>WildBoar</li>
+				<li>Wolverine</li>
+				<li>Dryad_Woodmaker</li>
+				<li>Yak</li>
+				<li>YorkshireTerrier</li>
+				<li>VGE_Astronaut</li>
+				<li>VGE_Astropede</li>
+				<li>VQE_BattleDrone</li>
+				<li>VQE_AutobroadcasterDrone</li>
+				<li>VQE_CleanerDrone</li>
+				<li>VQE_CraftingDrone</li>
+				<li>VQE_CrawlerDrone</li>
+				<li>Mech_Logistic</li>
+				<li>VQE_DriverDrone</li>
+				<li>VGE_Exoleech</li>
+				<li>VGE_Exopede</li>
+				<li>VGE_Exoworm</li>
+				<li>VGE_ExowormKnot</li>
+				<li>Drone_FirefoamPopper</li>
+				<li>VQE_FarmingDrone</li>
+				<li>VQE_FirefighterDrone</li>
+				<li>VQE_HaulerDrone</li>
+				<li>VQE_HornetDrone</li>
+				<li>Mech_Hunter</li>
+				<li>VGE_Hunter</li>
+				<li>VQE_IceCrawler</li>
+				<li>VQE_Megamidge</li>
+				<li>VQE_MinerDrone</li>
+				<li>VGE_Exohive</li>
+				<li>VFEI2_Nullipede</li>
+				<li>VQE_PackDrone</li>
+				<li>VQE_Protolancer</li>
+				<li>VQE_RaiderDrone</li>
+				<li>Mech_Scrambler</li>
+				<li>VQE_ShufflerDrone</li>
+				<li>VQEA_Splicefiend</li>
+				<li>VQEA_Splicehulk</li>
+				<li>VQEA_Spliceling</li>
+				<li>VQEA_Splicetoot</li>
+				<li>VQE_StingrayDrone</li>
+				<li>Mech_Surrogate</li>
+				<li>VQE_TurretDrone</li>
+				<li>VVE_BangBus</li>
+				<li>VVE_Bulldog</li>
+				<li>VVE_Bunsen</li>
+				<li>VVE_Charley</li>
+				<li>VVE_Dinghy</li>
+				<li>VVE_Dirtbike</li>
+				<li>VVE_Frog</li>
+				<li>VVE_Highwayman</li>
+				<li>VVE_Mosquito</li>
+				<li>VVE_Mule</li>
+				<li>VVE_Prowler</li>
+				<li>VVE_Roadkill</li>
+				<li>VVE_Roadrunner</li>
+				<li>VVE_Scytheman</li>
+				<li>VVE_Smuggler</li>
+				<li>VVE_Snatcher</li>
+				<li>VVE_Tango</li>
+				<li>VVE_Toad</li>
+				<li>VVE_Traveller</li>
+				<li>VVE_Trawler</li>
+				<li>VVE_Wagon</li>
+				<li>VVE_Warbird</li>
+				<li>VVE_Wisent</li>
+				<li>VVE_Cherokee</li>
+				<li>VVE_BigRig</li>
+				<li>Mech_Driller</li>
+				<li>VVE_Goliath</li>
+				<li>VVE_Marshal</li>
+				<li>RG_Hemolope</li>
+				<li>VVE_Nomad</li>
+				<li>VVE_Badger</li>
+				<li>RG_KiwiBird</li>
+				<li>VVE_Paladin</li>
+				<li>VVE_Louie</li>
+				<li>VVE_Burya</li>
+				<li>RG_Neutrolope</li>
+				<li>RG_Rabbit</li>
+				<li>VVE_Hermano</li>
+				<li>RG_Rimclaw</li>
+				<li>VVE_Udar</li>
+				<li>VVE_Lightning</li>
+				<li>VVE_Springbok</li>
+				<li>RG_WoollyStegosaurus</li>
+				<li>APM_Mech_Aegis</li>
+				<li>AM_Apoptosis</li>
+				<li>AM_Mech_Artilleron</li>
+				<li>AM_Aura</li>
+				<li>AM_Mech_Bellicor</li>
+				<li>APM_Mech_Conqueror_AR</li>
+				<li>AM_Blitzkrieg</li>
+				<li>APM_Mech_Conqueror_DMR</li>
+				<li>APM_Mech_Celerus</li>
+				<li>APM_Mech_CelerusB</li>
+				<li>AM_Mech_MasterChef</li>
+				<li>AM_Daggersnout</li>
+				<li>AM_Demolisher</li>
+				<li>APM_Mech_Dominus</li>
+				<li>APM_Mech_DominusB</li>
+				<li>APM_Mech_Dynamo</li>
+				<li>AM_Fireworm</li>
+				<li>APM_Mech_Frostivus</li>
+				<li>APM_Mech_Gazer</li>
+				<li>AM_Goliath</li>
+				<li>AM_Mech_Guttersnipe</li>
+				<li>APM_Mech_Haze</li>
+				<li>AM_Infernus</li>
+				<li>APM_Mech_Ingestor</li>
+				<li>APM_Mech_Javelin</li>
+				<li>APM_Mech_Lasher</li>
+				<li>AM_Mech_Legate</li>
+				<li>AM_Mech_Lux</li>
+				<li>APM_Mech_Mantis</li>
+				<li>APM_Mech_Maul</li>
+				<li>AM_Mech_Munifex</li>
+				<li>AM_Mech_Angler</li>
+				<li>AM_Mech_Optio</li>
+				<li>AM_Phalanx</li>
+				<li>AM_Mech_Polychoron</li>
+				<li>AM_Mech_PristineAssembler</li>
+				<li>AM_Mech_PristineSlurrypede</li>
+				<li>AM_PristineStrider</li>
+				<li>APM_Mech_Pulse</li>
+				<li>APM_Mech_Ravager</li>
+				<li>AM_Mech_Sagittarius</li>
+				<li>AM_Mech_Sanguinarius</li>
+				<li>APM_Mech_Satellite</li>
+				<li>AM_Siegebreaker</li>
+				<li>AM_Siegemelter</li>
+				<li>APM_Mech_Siren</li>
+				<li>APM_Mech_Conqueror_SMG</li>
+				<li>AM_Starfire</li>
+				<li>APM_Mech_Terminus</li>
+				<li>APM_Mech_TerminusB</li>
+				<li>APM_Mech_Tinker</li>
+				<li>AM_Mech_TurboCleaner</li>
+				<li>APM_Mech_Vassal</li>
+				<li>AM_WarEmpress</li>
+				<li>RG_ArcticDrak</li>
+				<li>RG_Dodo</li>
+				<li>RG_SabertoothSquirrel</li>
+				<li>RG_Synthetion</li>
+				<li>RG_Thrinaxodon</li>
+				<li>RG_Velociraptor</li>
+				<li>SEX_Mech_CentipedeRocketeer</li>
+				<li>SEX_Mech_LegionaryGrenadier</li>
+				<li>GT_GarbageTruckVehicle</li>
+				<li>DMS_Chelydridae_MainBattleTank</li>
+				<li>DMS_Mech_Ape</li>
+				<li>DMS_Mech_Armiman</li>
+				<li>DMS_ArmySteed_APC</li>
+				<li>DMS_Mech_Arquebusier</li>
+				<li>DMS_Mech_BattleFrame</li>
+				<li>DMS_AMO_Beast</li>
+				<li>DMS_Mech_BigSister</li>
+				<li>DMS_Mech_Bullfrog</li>
+				<li>DMS_Mech_BullHound</li>
+				<li>DMS_Mech_Caretta</li>
+				<li>DMS_Mech_Cephalopoda</li>
+				<li>DMS_Chameleon_TD</li>
+				<li>DMS_Mech_ClusterWeaver</li>
+				<li>DMS_Mech_Crank</li>
+				<li>DMS_Mech_Dogge</li>
+				<li>DMS_Mech_Gravekeeper_Stugna</li>
+				<li>DMS_Drone_Erima</li>
+				<li>DMS_Mech_EscortLifter</li>
+				<li>DMS_Mech_Facedancer</li>
+				<li>DMS_Mech_Falcon</li>
+				<li>DMS_Mech_FieldCommand</li>
+				<li>DMS_Mech_Frogman</li>
+				<li>DMST_Construct_Gargoyle</li>
+				<li>DMS_Mech_Gecko</li>
+				<li>DMS_Mech_Geochelone</li>
+				<li>DMS_Mech_Gladiator</li>
+				<li>DMS_Mech_Gorod</li>
+				<li>DMS_Mech_Gravekeeper</li>
+				<li>DMS_Mech_Grenadier</li>
+				<li>DMS_Mech_BullHound_Flamer</li>
+				<li>DMS_Mech_HermitCrab</li>
+				<li>DMS_Mech_Hirsch</li>
+				<li>DMS_Drone_Hound</li>
+				<li>Dummy</li>
+				<li>DMS_Mech_Hydrake</li>
+				<li>DMS_Mech_Hyrax</li>
+				<li>DMS_Mech_Iguana</li>
+				<li>DMS_Mech_Jaeger</li>
+				<li>DMS_Mech_Kanonier</li>
+				<li>DMS_Mech_Killdozer</li>
+				<li>DMS_Mech_Krepost</li>
+				<li>DMS_Mech_Lady</li>
+				<li>DMS_Mech_Lanius</li>
+				<li>USAC_Mech_Omaha</li>
+				<li>USAC_Mech_Cobalt</li>
+				<li>USAC_Mech_Rocky</li>
+				<li>USAC_Mech_Paraman</li>
+				<li>DMS_Mech_Maiden</li>
+				<li>DMS_Mech_Molot</li>
+				<li>DMS_Mule_ATV</li>
+				<li>DMS_Mech_Noctula</li>
+				<li>DMS_Mech_Phalanx</li>
+				<li>DMS_Mech_Pioneer</li>
+				<li>DMS_Mech_Pravda</li>
+				<li>DMS_Mech_Protector</li>
+				<li>DMS_Mech_Ronin</li>
+				<li>DMS_Mech_Saray</li>
+				<li>DMS_Mech_Scourge</li>
+				<li>DMS_Mech_Gravekeeper_Sepulturero</li>
+				<li>DMS_Mech_Sergeant</li>
+				<li>DMS_Mech_ShaftWorker</li>
+				<li>DMS_Mech_Siegebreaker</li>
+				<li>DMS_Mech_Skylark</li>
+				<li>DMS_Mech_Sniper</li>
+				<li>DMS_Mech_Soldat</li>
+				<li>DMS_Mech_Tarantula</li>
+				<li>DMS_Mech_Tarbosaurus</li>
+				<li>DMS_Mech_Tick</li>
+				<li>DMS_Mech_Mammoth</li>
+				<li>DMS_Drone_Trashpan</li>
+				<li>DMS_Mech_Tsvetnik</li>
+				<li>DMS_Drone_Uca</li>
+				<li>DMS_Mech_Gravekeeper_Velador</li>
+				<li>DMS_Drone_VerlingBrid</li>
+				<li>DMS_Drone_Wildfowl</li>
+				<li>USAC_Mech_Gonk</li>
+				<li>DMS_Mech_Zabor</li>
+				<li>DMS_Mech_Zabor_Pirate</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+			</values>
+		</ShowOnRace>
+	</ModSettings>
+</SettingsBlock>

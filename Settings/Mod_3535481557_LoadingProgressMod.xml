@@ -1,12 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-  <ModSettings Class="ilyvion.LoadingProgress.Settings">
-    <showInGameLoadingProgress>False</showInGameLoadingProgress>
-    <lastLoadingModHash>-211248824</lastLoadingModHash>
-    <loadingTimes>
-      <li>60.8088074</li>
-      <li>61.4737968</li>
-    </loadingTimes>
-    <loadingTimesMeasuredToMenu>True</loadingTimesMeasuredToMenu>
-  </ModSettings>
+	<ModSettings Class="ilyvion.LoadingProgress.Settings">
+		<showInGameLoadingProgress>False</showInGameLoadingProgress>
+		<lastLoadingModHash>659637833</lastLoadingModHash>
+		<loadingTimes>
+			<li>68.6462555</li>
+			<li>59.76297</li>
+			<li>67.7001953</li>
+			<li>54.9128647</li>
+			<li>52.1418152</li>
+			<li>73.8114243</li>
+			<li>75.7349091</li>
+			<li>69.6754532</li>
+		</loadingTimes>
+		<loadingTimesMeasuredToMenu>True</loadingTimesMeasuredToMenu>
+	</ModSettings>
 </SettingsBlock>

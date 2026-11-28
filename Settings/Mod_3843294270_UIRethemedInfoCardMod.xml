@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UIRethemed.InfoCard.UIRethemedInfoCardSettings">
+		<heightScale>1.22000003</heightScale>
+		<statsLeftColumn>35</statsLeftColumn>
+		<statsDetailsColumn>32</statsDetailsColumn>
+		<twoColumns>True</twoColumns>
+		<sectionsBox>False</sectionsBox>
+		<recentBox>False</recentBox>
+		<openSettings>
+			<li>Window</li>
+			<li>Stats</li>
+		</openSettings>
+		<foldedGroups />
+		<pinnedStats />
+		<hiddenSections>
+			<li>#pinned</li>
+		</hiddenSections>
+		<foldedRecordGroups />
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UIRethemed.ColonistPortrait.UIRethemedColonistPortraitSettings">
+		<view>Sleek</view>
+		<colonyHeader>False</colonyHeader>
+		<frameBackground>False</frameBackground>
+		<frameOpacity>1</frameOpacity>
+		<frameOutline>False</frameOutline>
+		<titles>True</titles>
+		<nameBox>False</nameBox>
+		<openSettings>
+			<li>Bar</li>
+			<li>Frames</li>
+			<li>Portraits</li>
+		</openSettings>
+	</ModSettings>
+</SettingsBlock>

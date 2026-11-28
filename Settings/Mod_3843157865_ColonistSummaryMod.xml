@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ColonistSummary.ColonistSummarySettings">
+		<fitWidth>True</fitWidth>
+		<hiddenColumns>
+			<li>Food</li>
+			<li>Rest</li>
+			<li>Recreation</li>
+		</hiddenColumns>
+	</ModSettings>
+</SettingsBlock>

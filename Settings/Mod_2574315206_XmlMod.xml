@@ -605,6 +605,8 @@
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFTweaksAnimaMeditationStrength</li>
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFHarbingerSeedsMin</li>
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFHarbingerSeedsMax</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFScenarioHediffTraitorMinTicks</li>
+				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFScenarioHediffTraitorMaxTicks</li>
 			</keys>
 			<values>
 				<li>20~40</li>
@@ -1209,6 +1211,8 @@
 				<li>0.28</li>
 				<li>0</li>
 				<li>1</li>
+				<li>120000</li>
+				<li>360000</li>
 			</values>
 		</dataDict>
 		<PinnedMods />
