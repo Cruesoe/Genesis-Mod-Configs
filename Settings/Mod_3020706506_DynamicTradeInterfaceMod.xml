@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="DynamicTradeInterface.Mod.DynamicTradeInterfaceSettings">
-		<TradeWidthPercentage>0.859375</TradeWidthPercentage>
-		<TradeHeightPercentage>0.845312476</TradeHeightPercentage>
-		<ShowAvailableOnMap>False</ShowAvailableOnMap>
-		<DynamicButtons>False</DynamicButtons>
-		<RowFont>Tiny</RowFont>
-		<DTI_Notifications />
-		<visibleColumns>
-			<li>colTradeIconDef</li>
-			<li>colTradeInfoDef</li>
-			<li>colTradeCaptionDef</li>
-			<li>colTradeExtraIconsDef</li>
-			<li>colTradeQuantityDef</li>
-			<li>colTradePriceDef</li>
-			<li>colTradeCounterDef</li>
-			<li>colTradeButtonsDef</li>
-		</visibleColumns>
-		<traderSorting />
-		<colonySorting />
-		<ColumnCustomization>
-			<keys />
-			<values />
-		</ColumnCustomization>
-	</ModSettings>
+  <ModSettings Class="DynamicTradeInterface.Mod.DynamicTradeInterfaceSettings">
+    <TradeWidthPercentage>0.859375</TradeWidthPercentage>
+    <TradeHeightPercentage>0.845312476</TradeHeightPercentage>
+    <ShowAvailableOnMap>False</ShowAvailableOnMap>
+    <DynamicButtons>False</DynamicButtons>
+    <RowFont>Tiny</RowFont>
+    <DTI_Notifications />
+    <visibleColumns>
+      <li>colTradeIconDef</li>
+      <li>colTradeInfoDef</li>
+      <li>colTradeCaptionDef</li>
+      <li>colTradeExtraIconsDef</li>
+      <li>colTradeQuantityDef</li>
+      <li>colTradePriceDef</li>
+      <li>colTradeCounterDef</li>
+      <li>colTradeButtonsDef</li>
+    </visibleColumns>
+    <traderSorting />
+    <colonySorting />
+    <ColumnCustomization>
+      <keys />
+      <values />
+    </ColumnCustomization>
+  </ModSettings>
 </SettingsBlock>

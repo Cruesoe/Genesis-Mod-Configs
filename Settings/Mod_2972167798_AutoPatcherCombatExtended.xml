@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="nuff.AutoPatcherCombatExtended.APCESettings">
-		<modsByPackageId>
-			<li>sd.leafskirt</li>
-			<li>regrowth.botr.core</li>
-			<li>cyanobot.toddlers</li>
-			<li>cruesoe.progressionlesswaste</li>
-		</modsByPackageId>
-		<modIgnoreList>
-			<li>cruesoe.progressionlesseducation</li>
-		</modIgnoreList>
-		<armorTechMultIndustrialBuffer>1</armorTechMultIndustrialBuffer>
-		<armorTechMultSpacerBuffer>2</armorTechMultSpacerBuffer>
-		<armorTechMultUltratechBuffer>3</armorTechMultUltratechBuffer>
-		<armorTechMultArchotechBuffer>4</armorTechMultArchotechBuffer>
-		<pawnToolSharpPenetrationBuffer>1</pawnToolSharpPenetrationBuffer>
-		<pawnToolBluntPenetration>1</pawnToolBluntPenetration>
-		<pawnToolBluntPenetrationBuffer>1</pawnToolBluntPenetrationBuffer>
-		<geneArmorBluntMult>10</geneArmorBluntMult>
-		<geneArmorBluntMultBuffer>10</geneArmorBluntMultBuffer>
-		<weaponToolPowerMultBuffer>1.0</weaponToolPowerMultBuffer>
-		<weaponToolSharpPenetrationBuffer>1.0</weaponToolSharpPenetrationBuffer>
-		<weaponToolBluntPenetrationBuffer>4.0</weaponToolBluntPenetrationBuffer>
-		<vehicleSharpMultBuffer>15</vehicleSharpMultBuffer>
-		<vehicleBluntMultBuffer>15</vehicleBluntMultBuffer>
-	</ModSettings>
+  <ModSettings Class="nuff.AutoPatcherCombatExtended.APCESettings">
+    <modsByPackageId>
+      <li>sd.leafskirt</li>
+      <li>regrowth.botr.core</li>
+      <li>cyanobot.toddlers</li>
+      <li>cruesoe.progressionlesswaste</li>
+    </modsByPackageId>
+    <modIgnoreList>
+      <li>cruesoe.progressionlesseducation</li>
+    </modIgnoreList>
+    <armorTechMultIndustrialBuffer>1</armorTechMultIndustrialBuffer>
+    <armorTechMultSpacerBuffer>2</armorTechMultSpacerBuffer>
+    <armorTechMultUltratechBuffer>3</armorTechMultUltratechBuffer>
+    <armorTechMultArchotechBuffer>4</armorTechMultArchotechBuffer>
+    <pawnToolSharpPenetrationBuffer>1</pawnToolSharpPenetrationBuffer>
+    <pawnToolBluntPenetration>1</pawnToolBluntPenetration>
+    <pawnToolBluntPenetrationBuffer>1</pawnToolBluntPenetrationBuffer>
+    <geneArmorBluntMult>10</geneArmorBluntMult>
+    <geneArmorBluntMultBuffer>10</geneArmorBluntMultBuffer>
+    <weaponToolPowerMultBuffer>1.0</weaponToolPowerMultBuffer>
+    <weaponToolSharpPenetrationBuffer>1.0</weaponToolSharpPenetrationBuffer>
+    <weaponToolBluntPenetrationBuffer>4.0</weaponToolBluntPenetrationBuffer>
+    <vehicleSharpMultBuffer>15</vehicleSharpMultBuffer>
+    <vehicleBluntMultBuffer>15</vehicleBluntMultBuffer>
+  </ModSettings>
 </SettingsBlock>

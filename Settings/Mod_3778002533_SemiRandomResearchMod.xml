@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="CM_Semi_Random_Research.SemiRandomResearchSettings">
-		<allowManualReroll>Always</allowManualReroll>
-		<availableProjectCount>7</availableProjectCount>
-		<forceLowestTechLevel>True</forceLowestTechLevel>
-		<allowSwitchingResearch>True</allowSwitchingResearch>
-		<showResearchRateGraph>False</showResearchRateGraph>
-		<preferredResearchTree>Organized</preferredResearchTree>
-		<settingsVersion>2</settingsVersion>
-		<suppressHandoverMessages>True</suppressHandoverMessages>
-		<timingsShowCurrentEra>True</timingsShowCurrentEra>
-	</ModSettings>
+  <ModSettings Class="CM_Semi_Random_Research.SemiRandomResearchSettings">
+    <allowManualReroll>Always</allowManualReroll>
+    <availableProjectCount>7</availableProjectCount>
+    <forceLowestTechLevel>True</forceLowestTechLevel>
+    <allowSwitchingResearch>True</allowSwitchingResearch>
+    <showResearchRateGraph>False</showResearchRateGraph>
+    <preferredResearchTree>Organized</preferredResearchTree>
+    <settingsVersion>2</settingsVersion>
+    <suppressHandoverMessages>True</suppressHandoverMessages>
+    <timingsShowCurrentEra>True</timingsShowCurrentEra>
+  </ModSettings>
 </SettingsBlock>

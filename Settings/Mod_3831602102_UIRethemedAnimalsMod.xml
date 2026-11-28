@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="UIRethemed.Animals.UIRethemedAnimalsSettings">
-		<filters>False</filters>
-		<hiddenDetails />
-		<detailsOrder />
-		<sortBy>LabelWithIcon</sortBy>
-		<descending>True</descending>
-		<helpFolded />
-		<filterGroupsOpen />
-		<collapsed>
-			<li>kind:Dryad_Carrier</li>
-			<li>kind:Chicken</li>
-			<li>kind:Sheep</li>
-			<li>kind:Donkey</li>
-			<li>kind:Dryad_Basic</li>
-			<li>kind:Wolf_Great</li>
-		</collapsed>
-		<columns />
-		<openSettings>
-			<li>Parts</li>
-			<li>Window</li>
-			<li>Style</li>
-		</openSettings>
-	</ModSettings>
+  <ModSettings Class="UIRethemed.Animals.UIRethemedAnimalsSettings">
+    <filters>False</filters>
+    <hiddenDetails />
+    <detailsOrder />
+    <sortBy>LabelWithIcon</sortBy>
+    <descending>True</descending>
+    <helpFolded />
+    <filterGroupsOpen />
+    <collapsed>
+      <li>kind:Dryad_Carrier</li>
+      <li>kind:Chicken</li>
+      <li>kind:Sheep</li>
+      <li>kind:Donkey</li>
+      <li>kind:Dryad_Basic</li>
+      <li>kind:Wolf_Great</li>
+    </collapsed>
+    <columns />
+    <openSettings>
+      <li>Parts</li>
+      <li>Window</li>
+      <li>Style</li>
+    </openSettings>
+  </ModSettings>
 </SettingsBlock>

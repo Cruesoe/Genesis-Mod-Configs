@@ -1,216 +1,216 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="UIRethemed.MainBar.UIRethemedMainBarSettings">
-		<groupsOnHover>True</groupsOnHover>
-		<hoverToEdges>True</hoverToEdges>
-		<cornerPanels />
-		<barItems>Date, Temperature, PlaySettings, Wind</barItems>
-		<barItemsVersion>1</barItemsVersion>
-		<readoutIcons>True</readoutIcons>
-		<hiddenMenuEntries />
-		<layout>
-			<nodes>
-				<li>
-					<key>Architect</key>
-					<children />
-				</li>
-				<li>
-					<key>Work</key>
-					<children />
-				</li>
-				<li>
-					<key>Schedule</key>
-					<children />
-				</li>
-				<li>
-					<key>Assign</key>
-					<children />
-				</li>
-				<li>
-					<key>VQE_Drones</key>
-					<children />
-				</li>
-				<li>
-					<key>Animals</key>
-					<children />
-				</li>
-				<li>
-					<key>Wildlife</key>
-					<children />
-				</li>
-				<li>
-					<key>Mechs</key>
-					<children />
-				</li>
-				<li>
-					<key>WVC_MechsWork</key>
-					<children />
-				</li>
-				<li>
-					<key>Research</key>
-					<children />
-				</li>
-				<li>
-					<key>Quests</key>
-					<children />
-				</li>
-				<li>
-					<key>ColonistSummary_Summary</key>
-					<children />
-				</li>
-				<li>
-					<key>Ideos</key>
-					<children />
-				</li>
-				<li>
-					<key>Group_6</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>UIRethemedRelationships_Relationships</key>
-							<children />
-						</li>
-						<li>
-							<key>PE_Education</key>
-							<children />
-						</li>
-						<li>
-							<key>WQ_CharactersMenu</key>
-							<children />
-						</li>
-						<li>
-							<key>ColonySummary_Summary</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>Group_5</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>World</key>
-							<children />
-						</li>
-						<li>
-							<key>History</key>
-							<children />
-						</li>
-						<li>
-							<key>Factions</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>Group_1</key>
-					<kind>Group</kind>
-					<children>
-						<li>
-							<key>UIRethemedNotifications_Calendar</key>
-							<children />
-						</li>
-						<li>
-							<key>Guests</key>
-							<children />
-						</li>
-						<li>
-							<key>Patients</key>
-							<children />
-						</li>
-						<li>
-							<key>VFEE_Royalty</key>
-							<children />
-						</li>
-						<li>
-							<key>AutoRituals</key>
-							<children />
-						</li>
-						<li>
-							<key>InMemoriam</key>
-							<children />
-						</li>
-						<li>
-							<key>FoodPriority</key>
-							<children />
-						</li>
-						<li>
-							<key>Rimblings_VoiceEditor</key>
-							<children />
-						</li>
-					</children>
-				</li>
-				<li>
-					<key>RimTalkDebug</key>
-					<children />
-				</li>
-				<li>
-					<key>RocketWindow</key>
-					<children />
-				</li>
-				<li>
-					<key>UIRethemedMainBar_Search</key>
-					<children />
-				</li>
-			</nodes>
-			<nextId>7</nextId>
-		</layout>
-		<hiddenButtons>
-			<li>UIRethemedMainBar_Search</li>
-		</hiddenButtons>
-		<buttonNames>
-			<keys>
-				<li>Group_1</li>
-				<li>Group_5</li>
-				<li>Group_6</li>
-			</keys>
-			<values>
-				<li>Tools</li>
-				<li>New group</li>
-				<li>New group</li>
-			</values>
-		</buttonNames>
-		<buttonIcons>
-			<keys>
-				<li>Group_5</li>
-				<li>Group_6</li>
-				<li>ColonySummary_Summary</li>
-				<li>ColonistSummary_Summary</li>
-			</keys>
-			<values>
-				<li>UIRethemedCore/Phosphor/globe-hemisphere-west</li>
-				<li>UIRethemedRelationships/MainButtons/users-three</li>
-				<li>UIRethemedCore/Phosphor/table</li>
-				<li>UIRethemedCore/Phosphor/table</li>
-			</values>
-		</buttonIcons>
-		<buttonColours>
-			<keys />
-			<values />
-		</buttonColours>
-		<buttonStyles>
-			<keys>
-				<li>Group_5</li>
-				<li>Group_1</li>
-				<li>Group_6</li>
-			</keys>
-			<values>
-				<li>Icons</li>
-				<li>Icons</li>
-				<li>Icons</li>
-			</values>
-		</buttonStyles>
-		<barHeight>40</barHeight>
-		<roundedButtons>False</roundedButtons>
-		<buttonPadding>2</buttonPadding>
-		<fillBar>True</fillBar>
-		<openSettings>
-			<li>Style</li>
-			<li>Readouts</li>
-			<li>Bar</li>
-			<li>Buttons</li>
-		</openSettings>
-		<searchFavourites />
-		<searchFolded />
-	</ModSettings>
+  <ModSettings Class="UIRethemed.MainBar.UIRethemedMainBarSettings">
+    <groupsOnHover>True</groupsOnHover>
+    <hoverToEdges>True</hoverToEdges>
+    <cornerPanels />
+    <barItems>Date, Temperature, PlaySettings, Wind</barItems>
+    <barItemsVersion>1</barItemsVersion>
+    <readoutIcons>True</readoutIcons>
+    <hiddenMenuEntries />
+    <layout>
+      <nodes>
+        <li>
+          <key>Architect</key>
+          <children />
+        </li>
+        <li>
+          <key>Work</key>
+          <children />
+        </li>
+        <li>
+          <key>Schedule</key>
+          <children />
+        </li>
+        <li>
+          <key>Assign</key>
+          <children />
+        </li>
+        <li>
+          <key>VQE_Drones</key>
+          <children />
+        </li>
+        <li>
+          <key>Animals</key>
+          <children />
+        </li>
+        <li>
+          <key>Wildlife</key>
+          <children />
+        </li>
+        <li>
+          <key>Mechs</key>
+          <children />
+        </li>
+        <li>
+          <key>WVC_MechsWork</key>
+          <children />
+        </li>
+        <li>
+          <key>Research</key>
+          <children />
+        </li>
+        <li>
+          <key>Quests</key>
+          <children />
+        </li>
+        <li>
+          <key>ColonistSummary_Summary</key>
+          <children />
+        </li>
+        <li>
+          <key>Ideos</key>
+          <children />
+        </li>
+        <li>
+          <key>Group_6</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>UIRethemedRelationships_Relationships</key>
+              <children />
+            </li>
+            <li>
+              <key>PE_Education</key>
+              <children />
+            </li>
+            <li>
+              <key>WQ_CharactersMenu</key>
+              <children />
+            </li>
+            <li>
+              <key>ColonySummary_Summary</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>Group_5</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>World</key>
+              <children />
+            </li>
+            <li>
+              <key>History</key>
+              <children />
+            </li>
+            <li>
+              <key>Factions</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>Group_1</key>
+          <kind>Group</kind>
+          <children>
+            <li>
+              <key>UIRethemedNotifications_Calendar</key>
+              <children />
+            </li>
+            <li>
+              <key>Guests</key>
+              <children />
+            </li>
+            <li>
+              <key>Patients</key>
+              <children />
+            </li>
+            <li>
+              <key>VFEE_Royalty</key>
+              <children />
+            </li>
+            <li>
+              <key>AutoRituals</key>
+              <children />
+            </li>
+            <li>
+              <key>InMemoriam</key>
+              <children />
+            </li>
+            <li>
+              <key>FoodPriority</key>
+              <children />
+            </li>
+            <li>
+              <key>Rimblings_VoiceEditor</key>
+              <children />
+            </li>
+          </children>
+        </li>
+        <li>
+          <key>RimTalkDebug</key>
+          <children />
+        </li>
+        <li>
+          <key>RocketWindow</key>
+          <children />
+        </li>
+        <li>
+          <key>UIRethemedMainBar_Search</key>
+          <children />
+        </li>
+      </nodes>
+      <nextId>7</nextId>
+    </layout>
+    <hiddenButtons>
+      <li>UIRethemedMainBar_Search</li>
+    </hiddenButtons>
+    <buttonNames>
+      <keys>
+        <li>Group_1</li>
+        <li>Group_5</li>
+        <li>Group_6</li>
+      </keys>
+      <values>
+        <li>Tools</li>
+        <li>New group</li>
+        <li>New group</li>
+      </values>
+    </buttonNames>
+    <buttonIcons>
+      <keys>
+        <li>Group_5</li>
+        <li>Group_6</li>
+        <li>ColonySummary_Summary</li>
+        <li>ColonistSummary_Summary</li>
+      </keys>
+      <values>
+        <li>UIRethemedCore/Phosphor/globe-hemisphere-west</li>
+        <li>UIRethemedRelationships/MainButtons/users-three</li>
+        <li>UIRethemedCore/Phosphor/table</li>
+        <li>UIRethemedCore/Phosphor/table</li>
+      </values>
+    </buttonIcons>
+    <buttonColours>
+      <keys />
+      <values />
+    </buttonColours>
+    <buttonStyles>
+      <keys>
+        <li>Group_5</li>
+        <li>Group_1</li>
+        <li>Group_6</li>
+      </keys>
+      <values>
+        <li>Icons</li>
+        <li>Icons</li>
+        <li>Icons</li>
+      </values>
+    </buttonStyles>
+    <barHeight>40</barHeight>
+    <roundedButtons>False</roundedButtons>
+    <buttonPadding>2</buttonPadding>
+    <fillBar>True</fillBar>
+    <openSettings>
+      <li>Style</li>
+      <li>Readouts</li>
+      <li>Bar</li>
+      <li>Buttons</li>
+    </openSettings>
+    <searchFavourites />
+    <searchFolded />
+  </ModSettings>
 </SettingsBlock>

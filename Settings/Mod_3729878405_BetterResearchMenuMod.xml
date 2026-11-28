@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="BetterResearchMenu.BetterResearchMenuSettings">
-		<collapseOnCompletion>True</collapseOnCompletion>
-		<autoOpenEnabled>True</autoOpenEnabled>
-	</ModSettings>
+  <ModSettings Class="BetterResearchMenu.BetterResearchMenuSettings">
+    <collapseOnCompletion>True</collapseOnCompletion>
+    <autoOpenEnabled>True</autoOpenEnabled>
+  </ModSettings>
 </SettingsBlock>

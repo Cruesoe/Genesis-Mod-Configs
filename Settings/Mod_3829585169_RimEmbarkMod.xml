@@ -1,71 +1,71 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="RimEmbark.RimEmbarkSettings">
-		<filter>
-			<options>
-				<keys>
-					<li>Terrain/Mountainous</li>
-					<li>Terrain/LargeHills</li>
-					<li>Stone/Granite</li>
-					<li>Stone/Marble</li>
-					<li>Biome/Desert</li>
-					<li>Feature/Caves</li>
-					<li>Feature/Muddy</li>
-				</keys>
-				<values>
-					<li>Include</li>
-					<li>Include</li>
-					<li>Include</li>
-					<li>Include</li>
-					<li>Exclude</li>
-					<li>Exclude</li>
-					<li>Exclude</li>
-				</values>
-			</options>
-			<ranges>
-				<keys>
-					<li>GrowingDays</li>
-					<li>SettlementDistance</li>
-					<li>AvgTemp</li>
-				</keys>
-				<values>
-					<li>60~60</li>
-					<li>13~100</li>
-					<li>0~20</li>
-				</values>
-			</ranges>
-			<matchAll>
-				<keys />
-				<values />
-			</matchAll>
-		</filter>
-		<gravshipFilter>
-			<options>
-				<keys />
-				<values />
-			</options>
-			<ranges>
-				<keys />
-				<values />
-			</ranges>
-			<matchAll>
-				<keys />
-				<values />
-			</matchAll>
-		</gravshipFilter>
-		<caravanFilter>
-			<options>
-				<keys />
-				<values />
-			</options>
-			<ranges>
-				<keys />
-				<values />
-			</ranges>
-			<matchAll>
-				<keys />
-				<values />
-			</matchAll>
-		</caravanFilter>
-	</ModSettings>
+  <ModSettings Class="RimEmbark.RimEmbarkSettings">
+    <filter>
+      <options>
+        <keys>
+          <li>Terrain/Mountainous</li>
+          <li>Terrain/LargeHills</li>
+          <li>Stone/Granite</li>
+          <li>Stone/Marble</li>
+          <li>Biome/Desert</li>
+          <li>Feature/Caves</li>
+          <li>Feature/Muddy</li>
+        </keys>
+        <values>
+          <li>Include</li>
+          <li>Include</li>
+          <li>Include</li>
+          <li>Include</li>
+          <li>Exclude</li>
+          <li>Exclude</li>
+          <li>Exclude</li>
+        </values>
+      </options>
+      <ranges>
+        <keys>
+          <li>GrowingDays</li>
+          <li>SettlementDistance</li>
+          <li>AvgTemp</li>
+        </keys>
+        <values>
+          <li>60~60</li>
+          <li>13~100</li>
+          <li>0~20</li>
+        </values>
+      </ranges>
+      <matchAll>
+        <keys />
+        <values />
+      </matchAll>
+    </filter>
+    <gravshipFilter>
+      <options>
+        <keys />
+        <values />
+      </options>
+      <ranges>
+        <keys />
+        <values />
+      </ranges>
+      <matchAll>
+        <keys />
+        <values />
+      </matchAll>
+    </gravshipFilter>
+    <caravanFilter>
+      <options>
+        <keys />
+        <values />
+      </options>
+      <ranges>
+        <keys />
+        <values />
+      </ranges>
+      <matchAll>
+        <keys />
+        <values />
+      </matchAll>
+    </caravanFilter>
+  </ModSettings>
 </SettingsBlock>
