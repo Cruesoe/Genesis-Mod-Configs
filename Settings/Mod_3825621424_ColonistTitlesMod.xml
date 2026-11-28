@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="ColonistTitles.ColonistTitlesSettings">
+    <barTitle>False</barTitle>
+    <barRoyalTitle>False</barRoyalTitle>
+    <barIdeoRole>False</barIdeoRole>
+    <workTemplateAsTitle>True</workTemplateAsTitle>
+    <drawBackground>False</drawBackground>
+    <opacity>0.900000036</opacity>
+  </ModSettings>
+</SettingsBlock>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
   <ModSettings Class="ProgressionPacing.ProgressionPacingModSettings">
     <techLevelMultipliers>
@@ -13,11 +13,11 @@
       </keys>
       <values>
         <li>1</li>
-        <li>1.19624579</li>
-        <li>1.74524975</li>
-        <li>1.99705303</li>
-        <li>2.50065827</li>
-        <li>3.49692488</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
         <li>1</li>
       </values>
     </techLevelMultipliers>
@@ -33,11 +33,11 @@
       </keys>
       <values>
         <li>1</li>
-        <li>100</li>
-        <li>100</li>
-        <li>100</li>
-        <li>100</li>
-        <li>500</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
         <li>1</li>
       </values>
     </techLevelRoundingMultiples>
@@ -63,7 +63,6 @@
     </techLevelAddons>
     <powerOutputMultiplier>0.850000024</powerOutputMultiplier>
     <powerOutputRoundingMultiple>50</powerOutputRoundingMultiple>
-    <excludeGravdata>True</excludeGravdata>
     <questPacingByComp>
       <keys>
         <li>Cassandra#1</li>

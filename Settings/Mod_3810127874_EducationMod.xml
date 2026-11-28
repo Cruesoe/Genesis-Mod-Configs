@@ -2,6 +2,7 @@
 <SettingsBlock>
   <ModSettings Class="ProgressionEducation.EducationSettings">
     <bestowProficiencyToAll>True</bestowProficiencyToAll>
+    <enableSpeechProficiency>False</enableSpeechProficiency>
     <showClassSuspendedAlert>True</showClassSuspendedAlert>
   </ModSettings>
 </SettingsBlock>

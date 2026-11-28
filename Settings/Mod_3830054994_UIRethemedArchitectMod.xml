@@ -396,6 +396,10 @@
               <children />
             </li>
             <li>
+              <key>RimMarket_Market</key>
+              <children />
+            </li>
+            <li>
               <key>Ferny_World</key>
               <children />
             </li>
@@ -857,8 +861,12 @@
       <li>type:RimWorld.Designator_SmoothSurface</li>
       <li>type:KeyzAllowUtilities.Designator_Floors</li>
       <li>type:RimWorld.Designator_Mine</li>
+      <li>type:RimWorld.Designator_RemoveFloor</li>
+      <li>type:RimWorld.Designator_AreaAllowedExpand</li>
+      <li>type:RimWorld.Designator_Deconstruct</li>
     </favourites>
     <hiddenItems />
     <wrapped />
+    <revealed />
   </ModSettings>
 </SettingsBlock>

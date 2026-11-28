@@ -32,6 +32,8 @@
     </Predators>
     <StaticRectPos>(1842, 5.80012131)</StaticRectPos>
     <ShowPredators>False</ShowPredators>
+    <MinimapOpen>False</MinimapOpen>
+    <ShowColonyAnimals>False</ShowColonyAnimals>
     <ShowCorpses>True</ShowCorpses>
     <multi21>109</multi21>
   </ModSettings>

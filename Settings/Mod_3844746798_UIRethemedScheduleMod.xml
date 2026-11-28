@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="UIRethemed.Schedule.UIRethemedScheduleSettings">
+    <hiddenActivities />
+    <templateList>
+      <li>
+        <id>def:UIRethemedSchedule_Standard</id>
+        <label>standard</label>
+        <icon>clock</icon>
+        <color>8A8A8A</color>
+        <description>The day every colonist starts with: asleep from 22:00 to 06:00, and free to do anything the rest of it.</description>
+        <hours>
+          <li>Sleep</li>
+          <li>Sleep</li>
+          <li>Sleep</li>
+          <li>Sleep</li>
+          <li>Sleep</li>
+          <li>Sleep</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Anything</li>
+          <li>Joy</li>
+          <li>Joy</li>
+          <li>Sleep</li>
+          <li>Sleep</li>
+        </hours>
+        <order>10</order>
+      </li>
+    </templateList>
+    <openSettings>
+      <li>Parts</li>
+      <li>Hours</li>
+      <li>Window</li>
+    </openSettings>
+  </ModSettings>
+</SettingsBlock>

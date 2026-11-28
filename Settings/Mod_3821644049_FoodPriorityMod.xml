@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+  <ModSettings Class="FoodPriority.FoodPrioritySettings">
+    <offsets>
+      <keys />
+      <values />
+    </offsets>
+    <animalOffsets>
+      <keys />
+      <values />
+    </animalOffsets>
+    <caravanLow>
+      <keys />
+      <values />
+    </caravanLow>
+    <rules />
+    <version>2</version>
+    <editorPos>(343, 171)</editorPos>
+  </ModSettings>
+</SettingsBlock>

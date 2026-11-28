@@ -3,6 +3,8 @@
   <ModSettings Class="ColonyAlert.AlertSettings">
     <work>False</work>
     <reading>False</reading>
+    <borderWidth>40</borderWidth>
+    <borderStyle>Glow</borderStyle>
     <indicator>Notification</indicator>
     <message>False</message>
   </ModSettings>
